@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yo
+title: Jeff
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Jeffrey Morais
       image:
         filename: hero-academic.png
       cta:
