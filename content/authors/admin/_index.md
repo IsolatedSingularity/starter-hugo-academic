@@ -76,6 +76,6 @@ highlight_name: true
 
 I just completed my Bachelor of Science in honours physics at [McGill University](https://www.physics.mcgill.ca/) and am currently doing research on holographic entanglement of qubits in quantum mechanics through the use of topological wormholes.
 
-My research background spans six years throughout various universities and institutions includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very invested and curious in the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future but it is nonetheless a goal I want to put my energy into, so that one day someone with the same curiosity as me will
+My research background spans six years throughout various universities and institutions and includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very invested and curious in the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future but it is nonetheless a goal I want to put my energy into, so that one day someone with the same curiosity as me will
 have it satiated.
 {style="text-align: justify;"}
