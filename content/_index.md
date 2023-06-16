@@ -137,22 +137,14 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
         author:
           - project
         link: ""
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Physics
-          tag: Physics
-        - name: Mathematics
-          tag: Maths
-        - name: Machine Learning
-          tag: ML
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
