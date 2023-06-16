@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Jeff 
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -30,6 +30,7 @@ module:
 ## ADVANCED
 ############################
 
+favicon: favicon.co
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
