@@ -1,0 +1,31 @@
+# Theme metadata
+name = "jeffrey-purple"
+
+# nice lilac D9CEEC
+# purple-grey 9F93CC
+# blueish purple grey 8D9DCF
+# purple again 938FBB darker 8E92BC
+
+[dark]
+  # Primary
+  primary = "#3fccb0" # highlight text - links, buttons, etc
+
+  #text_primary = "F605EF"
+  
+  # Menu
+  menu_primary = "#080808" #background color
+  menu_text = "#fff" # text in upper lefthand corner - menu navigation text
+  menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+  menu_title = "#141514" # i have no idea
+
+  # Home sections
+  background = "#343434"
+  home_section_odd = "#141514"
+  home_section_even = "#141514"
+
+#[dark]
+  # Primary
+  #primary = "#bbdefb" # highlight text?
+
+  #link = "#bbdefb"
+  #link_hover = "#bbdefb"
