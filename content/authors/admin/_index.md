@@ -74,7 +74,7 @@ highlight_name: true
 I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) and am currently doing research on holographic entanglement of qubits in quantum gravity.
 
 My research background spans six years throughout various universities and institutions which includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very curious about the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future, but it is nonetheless a goal I want to pursue so that one day someone with the same curiosities will
-have it satiated.
+have it satiated!
 
 When my soul isn't being consumed by physics, its being consumed by a black hole. Also I hike & play guitar/piano.
 {style="text-align: justify;"}
