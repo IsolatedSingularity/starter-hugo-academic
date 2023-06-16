@@ -46,7 +46,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope-dot
-    icon_pack: far
+    icon_pack: fas
     link: mailto:jeffrey.morais@mail.mcgill.ca
   - icon: github-alt
     icon_pack: fab
