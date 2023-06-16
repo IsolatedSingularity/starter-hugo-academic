@@ -2,7 +2,9 @@
 pdf: 
 url_pdf: ./cosmo.pdf
 summary: |+
-  **Bachelor's Thesis.** Study of the problematic non-existence of vacua with de Sitter isometries occurring in type II superstring theory. We look at excited Glauber-Sudarshan (product coherent) states over super Minkowski space with these isometries to allow for non-singular compactifications to the de Sitter spacetime, a candidate to model our Lorentzian universe.
+  Characterization of U(1) topological defect (cosmic string) signals occurring in a class of
+renormalizable quantum field theories. We develop statistics to extract these signals from
+primordial ΛCDM background noise in 21cm signal cosmological observations.
   
   **Supervisor:** [Prof. Robert Brandenberger](https://www.physics.mcgill.ca/~rhb/).
 url_video: ""
