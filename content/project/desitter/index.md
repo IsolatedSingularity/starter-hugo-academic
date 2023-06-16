@@ -7,7 +7,7 @@ summary: |+
   **Supervisor:** [Professor Keshav Dasgupta](https://www.physics.mcgill.ca/~keshav/).
 url_video: ""
 url_link: ""
-date: 2023-06-05
+date: 2022-09-01
 external_link: ""
 title: de Sitter Compactifications in type II String Theory
 tags:
