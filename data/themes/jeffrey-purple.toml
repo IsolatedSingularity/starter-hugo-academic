@@ -8,18 +8,18 @@ name = "jeffrey-purple"
 
 [dark]
   # Primary
-  primary = "#3fccb0" # highlight text - links, buttons, etc
+  primary = "#41f0c1" # highlight text - links, buttons, etc
 
   #text_primary = "F605EF"
   
   # Menu
-  menu_primary = "#080808" #background color
+  menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
   menu_text_active = "#B3C1E5" # text in upper lefthand corner 
   menu_title = "#141514" # i have no idea
 
   # Home sections
-  background = "#343434"
+  background = "#000000"
   home_section_odd = "#141514"
   home_section_even = "#141514"
 
