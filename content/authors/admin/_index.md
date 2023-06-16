@@ -45,10 +45,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: envelope-dot
     icon_pack: fas
     link: mailto:jeffrey.morais@mail.mcgill.ca
-  - icon: github
+  - icon: github-alt
     icon_pack: fab
     link: https://github.com/IsolatedSingularity
   - icon: linkedin
