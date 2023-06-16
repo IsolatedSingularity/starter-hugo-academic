@@ -45,8 +45,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: circle-envelope
-    icon_pack: fab
+  - icon: envelope
+    icon_pack: fas
     link: mailto:jeffrey.morais@mail.mcgill.ca
   - icon: github-alt
     icon_pack: fab
@@ -59,7 +59,10 @@ social:
   # and uncomment the lines below.
   - icon: flask
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: uploads/AcademicCV.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/IndustryCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,9 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) (on the left) and am currently doing research on holographic entanglement of qubits in quantum mechanics through the use of topological wormholes.
+I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) and am currently doing research on holographic entanglement of qubits in quantum gravity.
 
-My research background spans six years throughout various universities and institutions which includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very invested and curious about the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future, but it is nonetheless a goal I want to pursue so that one day someone with the same curiosities will
+My research background spans six years throughout various universities and institutions which includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very curious about the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future, but it is nonetheless a goal I want to pursue so that one day someone with the same curiosities will
 have it satiated.
 
 When my soul isn't being consumed by physics, its being consumed by a black hole. Also I hike & play guitar/piano.
