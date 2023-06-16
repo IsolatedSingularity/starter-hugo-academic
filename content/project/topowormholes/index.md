@@ -7,7 +7,7 @@ summary: |+
   **Supervisor:** [Igor Boettcher](https://sites.ualberta.ca/~iboettch/).
 url_video: ""
 url_link: ""
-date: 2023-06-05
+date: 2023-05-01
 external_link: ""
 title: Topological Wormholes in Quantum Mechanics
 tags:
