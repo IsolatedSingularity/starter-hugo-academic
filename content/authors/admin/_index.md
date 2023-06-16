@@ -46,7 +46,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope-dot
-    icon_pack: fas
+    icon_pack: fab
     link: mailto:jeffrey.morais@mail.mcgill.ca
   - icon: github-alt
     icon_pack: fab
@@ -57,8 +57,8 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: flask
+    icon_pack: fab
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
