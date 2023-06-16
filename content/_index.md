@@ -132,18 +132,7 @@ sections:
 #      view: compact
 #      columns: '2'
 
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      count: 3
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
       
   - block: portfolio
     id: projects
