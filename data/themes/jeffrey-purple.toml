@@ -15,13 +15,13 @@ name = "jeffrey-purple"
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+  menu_text_active = "#41f0c1" # text in upper lefthand corner 
   menu_title = "#141514" # i have no idea
 
   # Home sections
   background = "#000000"
-  home_section_odd = "#141514"
-  home_section_even = "#141514"
+  home_section_odd = "#000000"
+  home_section_even = "#000000"
 
 #[dark]
   # Primary
