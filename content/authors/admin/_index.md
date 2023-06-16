@@ -3,6 +3,7 @@
 title: Jeffrey Morais
 
 logo: logo.png
+favicon: favicon.ico
 
 # Full name (for SEO)
 first_name: Jeffrey
