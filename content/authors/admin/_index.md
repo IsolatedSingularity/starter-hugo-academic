@@ -71,10 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) and am currently doing research on holographic entanglement of qubits in quantum gravity.
+I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) in Montréal, Canada.
 
-My research background spans six years throughout various universities and institutions which includes theoretical high energy physics such as string theory & topological quantum field theory, quantum information theory, theoretical inflationary cosmology, non-linear photonics, and computational medical physics. I am very curious about the nature of our universe and the reason behind our existence. The goal to understanding such curiosities may be very far into the future, but it is nonetheless a goal I want to pursue so that one day someone with the same curiosities will
-have it satiated!
+My research background spans six years throughout various universities and institutions ranging from string theory to quantum information theory. I am currently working with [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of qubits in quantum mechanics. I also have had the pleasure of working with [Prof. Robert Brandenberger](https://www.physics.mcgill.ca/~rhb/) on topological defect signals in inflationary cosmology, with [Prof. Keshav Dasgupta](https://www.physics.mcgill.ca/~keshav/) on de Sitter compactifications in type II string theory,  and [Prof. Simon Caron-Huot](https://www.physics.mcgill.ca/~schuot/) & [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/people/staff/andrewhiggins) on the interaction of light in photon recycling via scalar quantum field theory, to name a few. My interests are deeply rooted in theoretical high energy physics, such as quantum gravity and topological quantum information theory.
 
-When my soul isn't being consumed by physics, its being consumed by a black hole. Also I hike & play guitar/piano.
+When my soul isn't being consumed by physics, it's being devoured by a black hole. Also I hike & cook.
 {style="text-align: justify;"}
