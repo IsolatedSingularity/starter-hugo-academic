@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: ./cosmo.pdf
 summary: |+
-  Characterization
+  Characterization U(1)
   
   **Supervisor:** [Prof. Robert Brandenberger](https://www.physics.mcgill.ca/~rhb/).
 url_video: ""
