@@ -1,11 +1,14 @@
 # Font style metadata
-name = "jeff"
+name = "mary-serif"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-heading_font = "Cardo"
-body_font = "Cardo"
-nav_font = "Cardo"
-mono_font = "Roboto Mono"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Cutive Mono"
+
+#color = "#F605EF"
+
