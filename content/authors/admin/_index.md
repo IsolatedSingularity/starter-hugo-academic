@@ -45,8 +45,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope-dot
-    icon_pack: fas
+  - icon: envelope-circle-check
+    icon_pack: fab
     link: mailto:jeffrey.morais@mail.mcgill.ca
   - icon: github-alt
     icon_pack: fab
