@@ -2,6 +2,8 @@
 # Display name
 title: Jeffrey Morais
 
+logo: logo.png
+
 # Full name (for SEO)
 first_name: Jeffrey
 last_name: Morais
