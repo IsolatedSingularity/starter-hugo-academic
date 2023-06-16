@@ -1,7 +1,6 @@
 ---
 pdf: 
 url_pdf: ./deSitter.pdf
-url_pdf: ./deSitter2.pdf
 summary: |+
   **Bachelor's Thesis.** Study of the problematic non-existence of vacua with de Sitter isometries occurring in type II superstring theory. We look at excited Glauber-Sudarshan (product coherent) states over super Minkowski space with these isometries to allow for non-singular compactifications to the de Sitter spacetime, a candidate to model our Lorentzian universe.
   
