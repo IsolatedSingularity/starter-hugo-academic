@@ -2,6 +2,8 @@
 # Display name
 title: Jeffrey Morais
 
+avatar_filename: avatar.png
+
 logo: logo.png
 favicon: favicon.ico
 
