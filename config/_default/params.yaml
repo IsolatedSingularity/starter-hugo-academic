@@ -11,6 +11,9 @@ appearance:
   font: jeff
   font_size: S
 
+avatar:
+  shape: square
+
 # SEO
 
 marketing:
