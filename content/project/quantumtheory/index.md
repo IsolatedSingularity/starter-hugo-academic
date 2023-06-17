@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: ./pilotwave.pdf
 summary: |+
-  Numerically solving the quantum Hamilton-Jacobi equations of motion and generating trajectories for de Broglie-Bohm theory with recurrent neural networks and the Crank- Nicolson method.
+  Numerically solving the quantum Hamilton-Jacobi equations of motion and generating trajectories for de Broglie-Bohm theory with recurrent neural networks and the Crank-Nicolson method.
 
   **Supervisor:** [Prof. Ivan Ivanov](https://euclid.vaniercollege.qc.ca/~iti/)
 url_video: ""
