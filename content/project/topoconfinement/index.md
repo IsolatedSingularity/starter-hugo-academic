@@ -1,6 +1,6 @@
 ---
 pdf: 
-url_pdf: ./topo.pdf
+url_pdf: ./confinement.pdf
 summary: |+
   Study of topological confinement in a nanobeam microcavity. We characterize resonant modes of electromagnetic waves in nano-scale photonic crystal ring resonators with MIT Electromagnetic Equation Propagation.
   
