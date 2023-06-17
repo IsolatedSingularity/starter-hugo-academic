@@ -10,7 +10,7 @@ url_video: ""
 url_link: ""
 date: 2022-09-01
 external_link: ""
-title: U(1) Topological Defect Signal Extraction
+title: Cosmic String Defect Signal Extraction
 tags:
   - Maths
 links: []
