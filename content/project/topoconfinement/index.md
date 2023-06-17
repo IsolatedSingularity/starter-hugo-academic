@@ -11,7 +11,6 @@ date: 2018-09-01
 external_link: ""
 title: Topological Confinement of Light in Crystal Resonators
 tags:
-  - Maths
 links: []
 image: 
 url_code: ""
