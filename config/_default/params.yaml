@@ -11,9 +11,6 @@ appearance:
   font: jeff
   font_size: S
 
-avatar:
-  shape: square
-
 # SEO
 
 marketing:
@@ -76,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
