@@ -7,7 +7,7 @@ summary: |+
   **Supervisor:** [Prof. Marija Popovic](https://www.mcgill.ca/medphys/people/faculty-staff/marija-popovic)
 url_video: ""
 url_link: ""
-date: 2023-06-05
+date: 2021-05-01
 external_link: ""
 title: Tensor Estimation of Tumour-Suppressing Radiation Doses
 tags:
