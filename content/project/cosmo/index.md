@@ -8,7 +8,7 @@ summary: |+
   **Supervisor:** [Prof. Robert Brandenberger](https://www.physics.mcgill.ca/~rhb/)
 url_video: ""
 url_link: ""
-date: 2022-09-01
+date: 2022-05-01
 external_link: ""
 title: Cosmic String Defect Signal Extraction
 tags:
