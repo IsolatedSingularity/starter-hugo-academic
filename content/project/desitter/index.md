@@ -10,7 +10,7 @@ url_video: ""
 url_link: ""
 date: 2022-09-01
 external_link: ""
-title: de Sitter Compactifications in type II String Theory
+title: de Sitter Compactifications in String Theory
 tags:
   - Maths
 links: []
