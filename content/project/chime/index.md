@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2021-09-01
 external_link: ""
-title: Fast Radio Burst Decorrelation Statistics
+title: Fast Radio Burst Correlation Statistics
 tags:
   - Maths
 links: []
