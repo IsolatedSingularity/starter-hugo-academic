@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2023-05-01
 external_link: ""
-title: Topological Wormholes in Quantum Mechanics
+title: Topological Wormholes in Quantum Information Theory
 tags:
   - Maths
 links: []
