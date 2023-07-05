@@ -10,7 +10,7 @@ url_video: ""
 url_link: ""
 date: 2022-05-01
 external_link: ""
-title: Cosmic String Defect Signal Extraction
+title: Cosmic String Signal Extraction
 tags:
   - Maths
 links: []
