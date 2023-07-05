@@ -2,14 +2,14 @@
 pdf: 
 url_pdf: 
 summary: |+
-  Study of the holographic entanglement of qubits in quantum mechanics. We look at how the Rényi entropy of the entangled states correlate directly to traversable topological wormholes. 
+  Using topological quantum neural networks and topological quantum field theory, we look at stochastic Ricci flow for the renormalization group flow in gravity.
   
-  **Supervisor:** [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/)
+  **Supervisor:** [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.html)
 url_video: ""
 url_link: ""
 date: 2023-07-01
 external_link: ""
-title: Topological Wormholes in GG
+title: Quantum Neural Networks in RG Flow
 tags:
   - Maths
 links: []
