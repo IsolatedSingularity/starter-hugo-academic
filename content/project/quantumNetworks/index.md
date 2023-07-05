@@ -1,6 +1,6 @@
 ---
 pdf: 
-url_pdf: ./casimir.pdf
+url_pdf:
 summary: |+
   Using topological quantum neural networks and topological quantum field theory, we look at stochastic Ricci flow for renormalization group flow in gravity. We also look at connecting this to topological wormholes and string defects.
   
@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2023-09-01
 external_link: ""
-title: Interaction of Light in Photon Recycling
+title: Quantum Neural Networks & RG Flow
 tags:
   - Maths
 links: []
