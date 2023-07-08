@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: 
 summary: |+
-  Characterizing fast radio burst repeater signals detected from the direction of the M81 galaxy with the CHIME/Pulsar & CHIME/FRB systems amongst non-linear cosmological noise: Measuring scintillation and decorrelation bandwidths.
+  Characterized the statistics of fast radio burst repeater signals detected from the direction of the M81 galaxy. Numerically computed scintillation and decorrelation bandwidths of signals with the CHIME/Pulsar system, amongst non-linear cosmological noise.
   
   **Supervisor:** [Prof. Victoria Kaspi](https://www.physics.mcgill.ca/~vkaspi/)
 url_video: ""
