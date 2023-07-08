@@ -8,7 +8,7 @@ summary: |+
   **Supervisor:** [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.html)
 url_video: ""
 url_link: ""
-date: 2023-09-01
+date: 2023-07-08
 external_link: ""
 title: (Upcoming) Renormalization Group Flow with Quantum Neural Networks
 tags:
