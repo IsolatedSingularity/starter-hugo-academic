@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2018-09-01
 external_link: ""
-title: Topological Confinement of Light in Non-Linear Photonics 
+title: Topological Confinement of Light in Linear Photonics 
 tags:
 links: []
 image: 
