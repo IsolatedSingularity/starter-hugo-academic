@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2023-09-01
 external_link: ""
-title: Renormalization Group Flow with Quantum Neural Networks
+title: Renormalization Group Flow with Quantum Neural Networksa
 tags:
   - Maths
 links: []
