@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: ./casimir.pdf
 summary: |+
-  Study of the interaction of light and dynamical Casimir effect occuring in photon recycling via scalar quantum field theory. We compute quantum corrections via loop diagrams using a spatially dependent interaction vertex and relativistically moving boundary conditions for the mirrors.
+  Study of the interaction of light and the dynamical Casimir effect occuring in photon recycling via scalar quantum field theory. We computed quantum corrections via loop diagrams using a spatially dependent interaction vertex and relativistically moving boundary conditions for the mirrors.
   
   **Supervisor:** [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/people/staff/andrewhiggins)
 url_video: ""
