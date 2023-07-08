@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: ./pilotwave.pdf
 summary: |+
-   Derived the quantum Hamilton-Jacobi equations of motion for de Broglie-Bohm theory and numerically generated trajectories for with recurrent neural networks and the Crank-Nicolson method.
+  Derived the quantum Hamilton-Jacobi equations of motion for de Broglie-Bohm theory. Numerically generated particle trajectories with recurrent neural networks.
 
   **Supervisor:** [Prof. Ivan Ivanov](https://euclid.vaniercollege.qc.ca/~iti/)
 url_video: ""
