@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2020-05-01
 external_link: ""
-title: Tidal Disruption Events in Gamma Ray Bursts
+title: Gamma Ray Bursts in Tidal Disruption Events
 tags:
   - Maths
 links: []
