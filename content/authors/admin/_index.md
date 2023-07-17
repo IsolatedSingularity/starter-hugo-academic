@@ -55,7 +55,7 @@ social:
     link: https://github.com/IsolatedSingularity
   - icon: linkedin
     icon_pack: fab
-    link: https://ca.linkedin.com/in/jeffrey-morais-25726b222
+    link: https://ca.linkedin.com/in/jeffrey-morais/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
