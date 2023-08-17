@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: 
 summary: |+
-  Study of the holographic entanglement of structure of qubits in quantum mechanics with non-local wormhole contributions. Described how the Rényi entropy of the entangled states correlate directly to non-trivial topological wormholes. 
+  Study of the holographic entanglement of structure of qubits in quantum mechanics with non-local wormhole contributions. Related wormholes to quantum tunneling events in potential well lattices via instanton configurations. 
   
   **Supervisor:** [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/)
 url_video: ""
