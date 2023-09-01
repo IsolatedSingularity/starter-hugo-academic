@@ -27,7 +27,7 @@ organizations:
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include quantum information theory, emergence, topological quantum field theory, and quantum gravity.
+bio: My interests include quantum neural networks, topological quantum field theory, quantum information theory, and quantum gravity.
 
 # Interests to show in About widget
 interests:
