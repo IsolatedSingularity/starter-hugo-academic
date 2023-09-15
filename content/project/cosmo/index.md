@@ -15,5 +15,5 @@ tags:
   - Maths
 links: []
 image: 
-url_code: "./topoPS.pptx"
+url_code: ""
 ---
