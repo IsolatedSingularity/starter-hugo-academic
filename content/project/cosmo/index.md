@@ -15,5 +15,5 @@ tags:
   - Maths
 links: [https://docs.google.com/presentation/d/1NyeoWOgc20WyNGjtwJ8X5wHXwwf26KMG/edit#slide=id.p1]
 image: 
-url_code: "https://docs.google.com/presentation/d/1NyeoWOgc20WyNGjtwJ8X5wHXwwf26KMG/edit#slide=id.p1"
+url_code: ""
 ---
