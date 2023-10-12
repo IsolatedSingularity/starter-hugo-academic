@@ -33,7 +33,7 @@ bio: My interests include quantum neural networks, topological quantum field the
 interests:
   - Quantum Gravity
   - Spacetime Emergence
-  - Quantum Information
+  - Quantum Computing
 
 # Education to show in About widget
 education:
@@ -75,7 +75,7 @@ highlight_name: true
 
 I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) in Montréal, Canada.
 
-My research background spans six years in theoretical physics and data science throughout various universities ranging from string theory to quantum computing theory. I am currently working with [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.html) on using topological quantum neural networks to describe renormalization group flow in quantum gravity. I've also had the pleasure of working with [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of topological wormholes with quantum information theory and [Prof. Keshav Dasgupta](https://www.physics.mcgill.ca/~keshav/) on de Sitter compactifications in M-theory, to name a few. My interests are deeply rooted in unraveling intricate problems, whether its describing our universe with quantum gravity or brain networks with topology.
+My research background spans six years in theoretical physics and data science throughout various universities ranging from string theory to post-quantum cryptography. I am currently working with [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.html) on using topological quantum neural networks to describe renormalization group flow in quantum gravity. Simultaneously, I am doing an research with [Dr. Peter Rohde][https://peterrohde.org/] on optimizing blockchain consensus computations using topological quantum error correction and fault-tolerant codes. My previous research was under [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of topological wormholes with quantum information theory. My interests are deeply rooted in unraveling intricate problems, whether its describing our universe with quantum gravity or brain networks with topology.
 
 When my soul isn't being consumed by physics, it's being devoured by black holes. Also I hike & cook.
 {style="text-align: justify;"}
