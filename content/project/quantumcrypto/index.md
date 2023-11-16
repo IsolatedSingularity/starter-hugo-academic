@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: 
 summary: |+ 
-  Using topological quantum error correction and fault-tolerant codes, we look at optimizing blockchain consensus computations in post-quantum cryptography. We apply this framework to quantum sampling events done in clusters of scalable quantum computers.
+  Using low-dimensional topology to characterize evolution of consensus networks and make them robust against external manipulation in post-quantum cryptography. Applying this framework to efficiently characterize classes of game theoretic problems.
 
   **Collaborator:** [Dr. Peter Rohde](https://peterrohde.org/)
 url_video: ""
