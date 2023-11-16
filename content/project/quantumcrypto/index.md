@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2023-10-11
 external_link: ""
-title: Post-Quantum Cryptography
+title: Consensus Optimization in Quantum Cryptography
 tags:
   - Maths
 links: []
