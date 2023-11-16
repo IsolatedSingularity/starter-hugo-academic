@@ -2,7 +2,7 @@
 pdf: 
 url_pdf:
 summary: |+
-  Looking at renormalization group flow in gravity through stochastic Ricci flow with quantum neural networks and topological quantum field theory. We also look at connecting this to topological wormhole networks with category theory.
+  Study of the link between topological quantum field theory and quantum neural networks via an (∞, n)-category of cobordisms, and exploting Ricci flow techniques for out-of-equilibrium physics in quantum gravity.
   
   **Supervisor:** [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm)
 url_video: ""
