@@ -19,10 +19,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bachelor Graduate in Theoretical Physics
+role: Master's Student in Theoretical Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: University of Victoria
+    url: https://www.uvic.ca/
   - name: McGill University
     url: https://www.mcgill.ca/
 
@@ -32,12 +34,15 @@ bio: My interests include quantum neural networks, topological quantum field the
 # Interests to show in About widget
 interests:
   - Quantum Gravity
-  - Spacetime Emergence
   - Quantum Computing
+  - Quantum Information
 
 # Education to show in About widget
 education:
   courses:
+    - course: MSc in Physics
+      institution: University of Victoria
+      year: 2024
     - course: BSc in Honours Physics
       institution: McGill University
       year: 2019 - 2023
