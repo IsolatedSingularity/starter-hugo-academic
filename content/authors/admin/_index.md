@@ -42,7 +42,7 @@ education:
   courses:
     - course: MSc in Physics
       institution: University of Victoria
-      year: 2024
+      year: 2024 - 2026
     - course: BSc in Honours Physics
       institution: McGill University
       year: 2019 - 2023
@@ -80,7 +80,7 @@ highlight_name: true
 
 I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) in Montréal, Canada. I start an MSc in theoretical physics at the [University of Victoria](https://www.uvic.ca/) in the following year.
 
-My research background spans six years in theoretical physics and data science throughout various universities ranging from string theory to quantum cryptography. I am currently working with [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm) on the link between quantum neural networks and topological quantum field theory for more efficient quantum computation. Simultaneously, I am doing research with [Dr. Peter Rohde](https://peterrohde.org/) on optimizing robust consensus protocols in post-quantum cryptograpy using low-dimensional topology and fault-tolerant codes. My previous research was under [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of topological wormholes with quantum computing theory. My interests are deeply rooted in unraveling intricate problems, whether its describing our universe with quantum gravity or brain networks with topology.
+My research background spans six years in theoretical physics and data science throughout various universities ranging from string theory to quantum cryptography. I am currently working with [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm) on the link between quantum neural networks and topological quantum field theory for more efficient quantum computation. Simultaneously, I am doing research with [Dr. Peter Rohde](https://peterrohde.org/) on optimizing robust consensus protocols in post-quantum cryptograpy using low-dimensional topology and fault-tolerant codes. My previous research was under [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of topological wormholes with quantum computing theory. My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology.
 
 When my soul isn't being consumed by physics, it's being devoured by black holes. Also I hike & cook.
 {style="text-align: justify;"}
