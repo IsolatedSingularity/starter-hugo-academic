@@ -19,7 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in Theoretical Physics
+role: Master's Student in Quantum Information
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,9 +33,9 @@ bio: My interests include quantum neural networks, topological quantum field the
 
 # Interests to show in About widget
 interests:
-  - Quantum Gravity
-  - Quantum Computing
-  - Quantum Information
+  - Quantum cryptography
+  - Quantum error correction
+  - Quantum information theory
 
 # Education to show in About widget
 education:
@@ -78,9 +78,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a recent graduate from the BSc honours physics program at [McGill University](https://www.physics.mcgill.ca/) in Montréal, Canada. I start an MSc in theoretical physics at the [University of Victoria](https://www.uvic.ca/) in the following year.
+I am an MSc student in theoretical physics at the [University of Victoria](https://www.uvic.ca/) and am the head of quantum software at [BTQ](https://www.btq.com/). I formerly graduated with a BSc in honours physics at [McGill University](https://www.physics.mcgill.ca/).
 
-My research background spans seven years in theoretical physics and data science throughout various universities ranging from string theory to quantum cryptography. I am currently working with [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm) and [Prof. Emanuele Zappala](https://eazappala.com/) on the link between quantum neural networks and topological quantum field theory for more efficient quantum computation. Simultaneously, I am doing research with [Dr. Peter Rohde](https://peterrohde.org/) on optimizing robust consensus protocols in post-quantum cryptograpy using persistent homology and topological data analysis techniques. My previous research was under [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/) on the holographic entanglement structure of topological wormholes with quantum computing theory. My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology.
+My research background spans seven years in theoretical physics and data science throughout various universities ranging from string theory to quantum cryptography. I am currently working on strongly correlated phases in quantum many-body systems for accessing lower
+temperature regimes in quantum measurements under [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php).  Simultaneously, I am doing research with [Prof. Gavin Brennen]([https://peterrohde.org/](https://researchers.mq.edu.au/en/persons/gavin-brennen)) on optimizing robust consensus protocols in post-quantum cryptograpy using persistent homology and topological data analysis techniques. My previous research was under [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm) and [Prof. Emanuele Zappala](https://eazappala.com/) on the link between quantum neural networks and topological quantum field theory for more efficient quantum computation. My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology.
 
 When my soul isn't being consumed by physics, it's being devoured by black holes. Also I hike & cook.
 {style="text-align: justify;"}
