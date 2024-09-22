@@ -7,7 +7,7 @@ Studying strongly correlated phases in quantum many-body systems for accessing l
   **Collaborator:** [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php)
 url_video: ""
 url_link: ""
-date: 2023-10-11
+date: 2024-10-11
 external_link: ""
 title: Quantum Many-Body System Correlations
 tags:
