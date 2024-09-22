@@ -2,7 +2,10 @@
 pdf: 
 url_pdf: 
 summary: |+ 
-  Using persistent homology and topological data analysis techniques to make consensus protocols more robust in post-quantum cryptographic applications. We characterize the autonomous evolution and interaction of consensus networks by studying their topology at different grained length scales.
+  Studying strongly correlated phases in quantum many-body systems for accessing lower
+temperature regimes in quantum measurements. We make use of the holographic framework
+of AdS/CFT to understand and perform quantum tasks more efficiently through quantum
+algorithms with a path integral formulation.
 
   **Collaborator:** [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen)
 url_video: ""
