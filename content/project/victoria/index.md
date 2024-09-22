@@ -7,9 +7,9 @@ summary: |+
   **Collaborator:** [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php)
 url_video: ""
 url_link: ""
-date: 2023-10-11
+date: 2024-10-11
 external_link: ""
-title: Consensus Optimization in Quantum Cryptography
+title: Quantum Many-Body Systems Correlations
 tags:
   - Maths
 links: []
