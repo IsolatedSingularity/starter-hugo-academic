@@ -1,6 +1,6 @@
 ---
 pdf: 
-url_pdf: ./confinement.pdf
+url_pdf: ./topo.pdf
 summary: |+
   Study of topological confinement in a nanobeam microcavity. Numerically characterized resonant modes of electromagnetic waves in nano-scale crystal ring resonators for circuit applications.
   
