@@ -1,6 +1,6 @@
 ---
 pdf: 
-url_pdf: ./pilotwave.pdf
+url_pdf: ./bohmian.pdf
 summary: |+
   Derived the quantum Hamilton-Jacobi equations of motion for de Broglie-Bohm theory. Numerically generated particle trajectories with recurrent neural networks.
 
