@@ -24,11 +24,9 @@ role: Master's Student in Quantum Computing
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: BTQ
-  - url: https://www.btq.com/
+    url: https://www.btq.com/
   - name: University of Victoria
     url: https://www.uvic.ca/
-  - name: McGill University
-    url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include quantum neural networks, topological quantum field theory, quantum information theory, and quantum gravity.
