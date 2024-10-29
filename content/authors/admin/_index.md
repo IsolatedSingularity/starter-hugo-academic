@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an MSc student in theoretical physics at the [University of Victoria](https://www.uvic.ca/) and am the head of quantum software at [BTQ](https://www.btq.com/). I formerly graduated with a BSc in honours physics at [McGill University](https://www.physics.mcgill.ca/).
+I am the Head of Quantum Software at [BTQ](https://www.btq.com/) and am an MSc student in theoretical physics at the [University of Victoria](https://www.uvic.ca/). I formerly graduated with a BSc in honours physics at [McGill University](https://www.physics.mcgill.ca/).
 
 My research background spans seven years in theoretical physics and data science throughout various universities ranging from string theory to quantum cryptography. I am currently working on strongly correlated phases in quantum many-body systems for accessing lower
 temperature regimes in quantum measurements under [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php).  Simultaneously, I am doing research with [Prof. Gavin Brennen]([https://peterrohde.org/](https://researchers.mq.edu.au/en/persons/gavin-brennen)) on optimizing robust consensus protocols in post-quantum cryptograpy using persistent homology and topological data analysis techniques. My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology.
