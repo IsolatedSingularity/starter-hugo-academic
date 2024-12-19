@@ -2,14 +2,14 @@
 pdf: 
 url_pdf: 
 summary: |+
-  Study of topological confinement in a nanobeam microcavity. Numerically characterized resonant modes of electromagnetic waves in nano-scale crystal ring resonators for circuit applications.
+  Investigated topological confinement in nanobeam microcavities to optimize photonic circuits. Simulated resonant modes to control frequency, intensity, and phase for quantum and optical applications.
   
   **Supervisor:** [Prof. Pablo Bianucci](https://www.concordia.ca/faculty/pablo-bianucci.html)
 url_video: ""
 url_link: ""
 date: 2018-09-01
 external_link: ""
-title: Topological Confinement of Light in Photonics 
+title: Topological Confinement of Light in Circuits
 tags:
 links: []
 image: 
