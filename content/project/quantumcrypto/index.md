@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: 
 summary: |+ 
-  Using persistent homology and topological data analysis techniques to make consensus protocols more robust in post-quantum cryptographic applications. We characterize the autonomous evolution and interaction of consensus networks by studying their topology at different grained length scales.
+  Developed secure and scalable protocols for quantum and post-quantum cryptography, leveraging advanced techniques like topological data analysis and combinatorics. Focused on enhancing security and efficiency in quantum communication and consensus protocols.
 
   **Collaborator:** [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen)
 url_video: ""
