@@ -2,14 +2,14 @@
 pdf: 
 url_pdf:
 summary: |+
-  Derived the quantum Hamilton-Jacobi equations of motion for de Broglie-Bohm theory. Numerically generated particle trajectories with recurrent neural networks.
+  Solved quantum trajectories in pilot-wave theory using neural networks and the Crank-Nicolson method. Developed scripts to efficiently compute trajectories for diverse potentials in quantum systems.
 
   **Supervisor:** [Prof. Ivan Ivanov](https://euclid.vaniercollege.qc.ca/~iti/)
 url_video: ""
 url_link: ""
 date: 2019-09-01
 external_link: ""
-title: Quantum Trajectories in de Broglie-Bohm Theory
+title: Quantum Trajectory Neural Networks
 tags:
   - Maths
 links: []
