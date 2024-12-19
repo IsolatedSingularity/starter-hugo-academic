@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: 
 summary: |+ 
-  Studied quantum virtual cooling algorithms to improve quantum computation stability and efficiency. Utilized qubit entanglement and holographic error correction to access otherwise inaccessible phases while reducing physical costs.
+  **Master's Thesis.** Studied quantum virtual cooling algorithms to improve quantum computation stability and efficiency. Utilized qubit entanglement and holographic error correction to access otherwise inaccessible phases while reducing physical costs.
   
   **Collaborator:** [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php)
 url_video: ""
