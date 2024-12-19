@@ -2,14 +2,14 @@
 pdf: 
 url_pdf: ./topoWormholes.pdf
 summary: |+ 
-  Study of the holographic entanglement of structure of qubits in quantum mechanics with non-local topological wormhole contributions. Related wormholes to quantum tunneling events in potential well lattices via instanton configurations. 
+  Explored how topological wormholes influence qubit entanglement and quantum network stability. Analyzed tunneling events and wormhole dynamics to improve quantum algorithms and architectures. 
   
   **Supervisor:** [Prof. Igor Boettcher](https://sites.ualberta.ca/~iboettch/)
 url_video: ""
 url_link: ""
 date: 2023-05-01
 external_link: ""
-title: Wormholes in Quantum Information Theory
+title: Holographic Qubit Entanglement Structure
 tags:
   - Maths
 links: []
