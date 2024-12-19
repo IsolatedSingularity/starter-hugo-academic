@@ -2,7 +2,7 @@
 pdf: 
 url_pdf: ./cherenkov.pdf
 summary: |+
-  Study of Cherenkov γ-radiation in superluminous supernovae and tidal disruption events with the NASA Fermi-LAT. Studied statistics of radiation through numerical upper limit and likelihood computations.
+  Studied γ-rays in supernovae and tidal disruption events using Fermi-LAT data. Cleaned background noise and performed statistical analyses to identify and characterize high-energy sources.
 
   **Supervisor:** [Prof. Kenneth Ragan](https://www.physics.mcgill.ca/~ragan/)
 url_video: ""
