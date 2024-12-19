@@ -2,14 +2,14 @@
 pdf: 
 url_pdf: ./casimir.pdf
 summary: |+
-  Study of the interaction of light and the dynamical Casimir effect occuring in photon recycling via scalar quantum field theory. We computed quantum corrections via loop diagrams using a spatially dependent interaction vertex and relativistically moving boundary conditions for the mirrors.
+  Studied photon-recycling propulsion systems, focusing on quantum effects and efficient momentum transfer. Analyzed light interactions and radiation pressure to optimize energy transfer for quantum and aerospace technologies.
   
   **Supervisor:** [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/people/staff/andrewhiggins)
 url_video: ""
 url_link: ""
 date: 2022-01-01
 external_link: ""
-title: Interaction of Light in Photon Recycling
+title: Photon Recycling Effects in Light Propulsion
 tags:
   - Maths
 links: []
