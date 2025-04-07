@@ -37,23 +37,6 @@ categories:
 
 featured: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-links:
-- name: 
-  url: 
-  icon_pack: fas
-  icon: newspaper
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
