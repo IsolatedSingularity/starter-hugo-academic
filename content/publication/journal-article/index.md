@@ -40,8 +40,8 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Journal Link
-  url: https://doi.org/10.26443/msurj.v20i1.337
+- name: 
+  url: 
   icon_pack: fas
   icon: newspaper
 
