@@ -3,7 +3,7 @@ title: "Conflicts with de Sitter Vacua in Superstring Theory"
 authors:
 - admin
 date: "2025-03-31T00:00:00Z"
-doi: "https://msurjonline.mcgill.ca/article/view/337"
+doi: "10.26443/msurj.v20i1.337"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-31T00:00:00Z"
@@ -73,7 +73,7 @@ publication_info:
 - **Issue**: 1 (2025)
 - **Pages**: 59-64
 - **Published**: March 31, 2025
-- **DOI**: [10.26443/msurj.v20i1.337](https://doi.org/10.26443/msurj.v20i1.337)
+- **DOI**: [Article Site](https://msurjonline.mcgill.ca/article/view/337)
 - **Author**: Jeffrey Morais
 - **Institution**: Department of Physics, McGill University, Montréal, QC, Canada
 
