@@ -19,8 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Quantum Software @ BTQ \\
-      MSc Student @ UVic
+role: Head of Quantum Software @ BTQ<br>MSc Student @ UVic
 
 # Organizations/Affiliations to show in About widget
 organizations:
