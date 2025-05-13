@@ -19,9 +19,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: |
-  Head of Quantum Software @ BTQ
-    MSc Student @ UVic
+role: Head of Quantum Software @ BTQ \\
+      MSc Student @ UVic
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,7 +78,7 @@ highlight_name: true
 
 I am the Head of Quantum Software at [BTQ](https://www.btq.com/) and an MSc student in theoretical physics at the [University of Victoria](https://www.uvic.ca/). I formerly graduated with a BSc in honours physics at [McGill University](https://www.physics.mcgill.ca/).
 
-My research background spans seven years in theoretical physics and computer science throughout various universities ranging from quantum gravity to computational biophysics. Currently I work with [Prof. Gavin Brennen]([https://peterrohde.org/](https://researchers.mq.edu.au/en/persons/gavin-brennen)) at BTQ on optimizing cryptographic proof protocols using topological data analysis techniques and quantum low-density parity-check codes. Simultaneously, I am working under [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php) looking at constructing a robust set of axioms for holographic quantum error correcting codes with systems admitting non-compact Hilbert spaces. 
+My research background spans seven years in theoretical physics and computer science throughout various universities ranging from quantum gravity to computational biophysics. Currently I work with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) at BTQ on optimizing cryptographic proof protocols using topological data analysis techniques and quantum low-density parity-check codes. Simultaneously, I am working under [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php) looking at constructing a robust set of axioms for holographic quantum error correcting codes with systems admitting non-compact Hilbert spaces. 
 
 My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology. When my soul isn't being consumed by physics, it's being devoured by black holes. Also I hike & cook.
 {style="text-align: justify;"}
