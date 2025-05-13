@@ -7,7 +7,7 @@ summary: |+
   **Collaborator:** [Prof. Kristan Jensen](https://www.uvic.ca/science/physics/vispa/people/faculty/jensen--kristan.php)
 url_video: ""
 url_link: ""
-date: 2024-09-01
+date: 2025-09-01
 external_link: ""
 title: Holographic Quantum Error Correction
 tags:
