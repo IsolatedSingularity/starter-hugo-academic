@@ -19,7 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in Quantum Computing
+role: Head of Quantum Software @ BTQ
 
 # Organizations/Affiliations to show in About widget
 organizations:
