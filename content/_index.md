@@ -11,6 +11,16 @@ sections:
       title: Welcome Traveler.
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        image:
+          filename: main-background.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
       
   - block: collection
     id: publications
@@ -25,6 +35,15 @@ sections:
     design:
       columns: '2'
       view: citation
+      background:
+        image:
+          filename: main-background.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
       
   - block: portfolio
     id: projects
@@ -79,6 +98,16 @@ sections:
           position: center
           parallax: true
           text_color_light: true
+
+  - block: markdown
+    content:
+      title: ""
+      text: |
+        <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
+        Background artwork by <a href="https://www.artstation.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.artstation.com/dmayer" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>.
+        </div>
+    design:
+      columns: '1'
       
 
 ---
