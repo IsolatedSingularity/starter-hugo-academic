@@ -14,7 +14,10 @@ tags:
   - Quantum
   - Neural Networks
   - Research
-links: []
+links:
+  - name: GitHub
+    url: https://github.com/IsolatedSingularity/Quantum-Trajectories
+    icon: brands/github
 image:
   filename: featured.jpg
   focal_point: Smart

@@ -14,7 +14,10 @@ tags:
   - Astrophysics
   - Signal Processing
   - Research
-links: []
+links:
+  - name: GitHub
+    url: https://github.com/IsolatedSingularity/FRB-Tunneling
+    icon: brands/github
 image:
   focal_point: Smart
 url_code: ""

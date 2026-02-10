@@ -15,7 +15,10 @@ tags:
   - Cosmology
   - QFT
   - Research
-links: []
+links:
+  - name: GitHub
+    url: https://github.com/IsolatedSingularity/Cosmic-String-Signals
+    icon: brands/github
 image:
   filename: featured.jpg
   focal_point: Smart

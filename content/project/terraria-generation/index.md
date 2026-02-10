@@ -16,5 +16,5 @@ links:
     icon: brands/github
 image:
   focal_point: Smart
-url_code: "https://github.com/IsolatedSingularity/Terraria-Generation"
+url_code: "https://github.com/IsolatedSingularity/Terraria-Generation/tree/main/Code"
 ---
