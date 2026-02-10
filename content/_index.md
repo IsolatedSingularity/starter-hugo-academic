@@ -16,7 +16,7 @@ sections:
         image:
           filename: main-background.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.35
           size: cover
           position: center
           parallax: true
@@ -39,7 +39,7 @@ sections:
         image:
           filename: main-background.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.35
           size: cover
           position: center
           parallax: true
@@ -104,7 +104,7 @@ sections:
       title: ""
       text: |
         <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
-        Background artwork by <a href="https://www.artstation.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.artstation.com/dmayer" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>.
+        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
         </div>
     design:
       columns: '1'
