@@ -11,8 +11,12 @@ date: 2023-09-01
 external_link: ""
 title: Topological Quantum Neural Networks Learning
 tags:
-  - Maths
+  - Machine Learning
+  - TQFT
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

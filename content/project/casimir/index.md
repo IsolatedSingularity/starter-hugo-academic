@@ -11,8 +11,12 @@ date: 2022-01-01
 external_link: ""
 title: Photon Recycling Effects in Light Propulsion
 tags:
-  - Maths
+  - Quantum
+  - Aerospace
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

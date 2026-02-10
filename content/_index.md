@@ -33,9 +33,8 @@ sections:
       filters:
         folders:
           - project
-        author:
-          - project
-        link: ""
+        tags:
+          - Research
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -57,6 +56,20 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+
+  - block: portfolio
+    id: creative
+    content:
+      title: Creative Work
+      filters:
+        folders:
+          - project
+        tags:
+          - Creative
+
+    design:
+      columns: '2'
+      view: showcase
       
 
 ---

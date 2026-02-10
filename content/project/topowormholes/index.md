@@ -11,8 +11,12 @@ date: 2023-05-01
 external_link: ""
 title: Holographic Qubit Entanglement Structure
 tags:
-  - Maths
+  - Holography
+  - Quantum Information
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

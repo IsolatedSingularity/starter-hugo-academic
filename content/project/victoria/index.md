@@ -11,8 +11,12 @@ date: 2025-06-22
 external_link: ""
 title: Eigenstate Thermalization Hypothesis
 tags:
-  - Maths
+  - Many-Body
+  - Quantum Chaos
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

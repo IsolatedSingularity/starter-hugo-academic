@@ -11,8 +11,12 @@ date: 2019-09-01
 external_link: ""
 title: Quantum Trajectory Neural Networks
 tags:
-  - Maths
+  - Quantum
+  - Neural Networks
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

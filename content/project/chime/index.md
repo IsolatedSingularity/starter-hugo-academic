@@ -11,8 +11,11 @@ date: 2021-09-01
 external_link: ""
 title: Fast Radio Burst Repeater Correlations
 tags:
-  - Maths
+  - Astrophysics
+  - Signal Processing
+  - Research
 links: []
-image: 
+image:
+  focal_point: Smart
 url_code: ""
 ---

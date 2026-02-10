@@ -11,8 +11,12 @@ date: 2021-05-01
 external_link: ""
 title: Tensor Networks for Cancer Radiation Doses
 tags:
-  - Maths
+  - Machine Learning
+  - Medical Physics
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

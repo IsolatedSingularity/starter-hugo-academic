@@ -12,8 +12,12 @@ date: 2022-05-01
 external_link: ""
 title: Cosmic String Signal Extraction
 tags:
-  - Maths
+  - Cosmology
+  - QFT
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

@@ -11,8 +11,12 @@ date: 2020-05-01
 external_link: ""
 title: Gamma Ray Bursts in Tidal Disruption Events
 tags:
-  - Maths
+  - Astrophysics
+  - Data Analysis
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

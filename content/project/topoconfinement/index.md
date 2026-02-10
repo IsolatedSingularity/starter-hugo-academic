@@ -11,7 +11,12 @@ date: 2018-09-01
 external_link: ""
 title: Topological Confinement of Light in Circuits
 tags:
+  - Photonics
+  - Topology
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---

@@ -12,8 +12,11 @@ date: 2022-09-01
 external_link: ""
 title: de Sitter Cosmology in Quantum Gravity
 tags:
-  - Maths
+  - String Theory
+  - Quantum Gravity
+  - Research
 links: []
-image: 
+image:
+  focal_point: Smart
 url_code: ""
 ---

@@ -13,6 +13,12 @@ main:
   - name: Research
     url: '#projects'
     weight: 20
+  - name: Creative Work
+    url: '#creative'
+    weight: 25
+  - name: Publications
+    url: '#publications'
+    weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40

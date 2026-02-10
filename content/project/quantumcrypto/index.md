@@ -11,8 +11,12 @@ date: 2023-10-11
 external_link: ""
 title: Consensus Optimization in Quantum Cryptography
 tags:
-  - Maths
+  - Cryptography
+  - Quantum
+  - Research
 links: []
-image: 
+image:
+  filename: featured.png
+  focal_point: Smart
 url_code: ""
 ---
