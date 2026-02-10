@@ -17,6 +17,7 @@ links:
     url: https://github.com/IsolatedSingularity/Bloc-Fantome
     icon: brands/github
 image:
+  filename: featured.gif
   focal_point: Smart
 url_code: "https://github.com/IsolatedSingularity/Bloc-Fantome"
 ---
