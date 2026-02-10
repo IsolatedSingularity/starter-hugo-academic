@@ -17,7 +17,7 @@ main:
     url: '#creative'
     weight: 40
   - name: CV
-    url: uploads/AcademicCV.pdf
+    url: uploads/IndustryCV.pdf
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.

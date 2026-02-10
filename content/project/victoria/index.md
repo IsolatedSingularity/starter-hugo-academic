@@ -1,6 +1,6 @@
 ---
 pdf: 
-url_pdf: ./replicaHQEC.pdf
+url_pdf: 
 summary: |+ 
   **Master's Thesis.** Systematic verification of the eigenstate thermalization hypothesis across quantum many-body models, investigating thermalization behavior and quantum chaos in non-integrable systems. Applied scaling analysis and computational methods to characterize integrability transitions.
   

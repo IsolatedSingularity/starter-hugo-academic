@@ -70,6 +70,15 @@ sections:
     design:
       columns: '2'
       view: showcase
+      background:
+        image:
+          filename: creative-background.jpg
+          filters:
+            brightness: 0.6
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
       
 
 ---

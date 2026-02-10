@@ -14,7 +14,13 @@ tags:
   - Cryptography
   - Quantum
   - Research
-links: []
+links:
+  - name: Leonne
+    url: https://github.com/btq-ag/Leonne
+    icon: brands/github
+  - name: QRiNG
+    url: https://github.com/btq-ag/QRiNG
+    icon: brands/github
 image:
   filename: featured.jpg
   focal_point: Smart

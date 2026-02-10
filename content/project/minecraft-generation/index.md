@@ -17,7 +17,6 @@ links:
     url: https://github.com/IsolatedSingularity/Minecraft-Generation
     icon: brands/github
 image:
-  filename: featured.mp4
   focal_point: Smart
 url_code: "https://github.com/IsolatedSingularity/Minecraft-Generation/tree/main/Code"
 url_video: "featured.mp4"
