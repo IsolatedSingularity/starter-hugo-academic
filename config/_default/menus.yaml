@@ -7,27 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
-  - name: Research
-    url: '#projects'
-    weight: 20
-  - name: Creative Work
-    url: '#creative'
-    weight: 25
   - name: Publications
     url: '#publications'
+    weight: 20
+  - name: Research
+    url: '#projects'
     weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
+  - name: Creative Work
+    url: '#creative'
+    weight: 40
+  - name: CV
+    url: uploads/AcademicCV.pdf
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
