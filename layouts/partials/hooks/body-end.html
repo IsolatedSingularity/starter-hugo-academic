@@ -1,0 +1,23 @@
+<script>
+(function() {
+  var devtools = { open: false };
+  var threshold = 160;
+  
+  setInterval(function() {
+    var widthThreshold = window.outerWidth - window.innerWidth > threshold;
+    var heightThreshold = window.outerHeight - window.innerHeight > threshold;
+    
+    if (!devtools.open && (widthThreshold || heightThreshold)) {
+      devtools.open = true;
+      console.log('%c ', 'font-size: 1px; padding: 50px 80px; background: linear-gradient(#000, #000);');
+      console.log('%cHello.', 'color: #41f0c1; font-size: 16px; font-family: monospace;');
+      console.log('%cYou\'re curious. I like that about you.', 'color: #888; font-size: 12px; font-family: monospace;');
+      console.log('%c ', 'font-size: 4px;');
+      console.log('%cBut you won\'t find anything here.', 'color: #666; font-size: 11px; font-family: monospace; font-style: italic;');
+      console.log('%c ', 'font-size: 8px;');
+      console.log('%cOr will you?', 'color: #444; font-size: 10px; font-family: monospace;');
+      console.log('%c ', 'font-size: 1px; padding: 50px 80px; background: linear-gradient(#000, #000);');
+    }
+  }, 500);
+})();
+</script>

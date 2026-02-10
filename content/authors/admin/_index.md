@@ -19,14 +19,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Quantum Software @ BTQ<br>MSc Student @ UVic
+role: Head of Quantum Software @ <a href="https://www.btq.com/" target="_blank">BTQ</a><br>MSc Student @ <a href="https://www.uvic.ca/" target="_blank">UVic</a>
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: BTQ
-    url: https://www.btq.com/
-  - name: University of Victoria
-    url: https://www.uvic.ca/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include quantum neural networks, topological quantum field theory, quantum information theory, and quantum gravity.
@@ -34,8 +30,8 @@ bio: My interests include quantum neural networks, topological quantum field the
 # Interests to show in About widget
 interests:
   - Quantum algorithms
-  - Optimization
   - Quantum cryptography
+  - Procedural world generation & speedrun routing optimization
 
 # Education to show in About widget
 education:

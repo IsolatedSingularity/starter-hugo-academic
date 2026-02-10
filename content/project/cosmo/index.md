@@ -17,7 +17,7 @@ tags:
   - Research
 links: []
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
 url_code: ""
 ---

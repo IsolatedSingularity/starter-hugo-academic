@@ -16,7 +16,8 @@ sections:
     id: publications
     content:
       title: Publications
-      text: 
+      text: |
+        My undergraduate research on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal.
       filters:
         folders:
           - publication
