@@ -19,12 +19,25 @@
 -->
 
 <style>
-  /* Space between section header/description and project cards */
-  #publications .section-heading,
-  #work .section-heading,
-  #projects .section-heading,
-  #creative .section-heading {
-    margin-bottom: 3.5rem;
+  /* Add breathing room at the top of each section, between the header area and project cards */
+  #publications,
+  #work,
+  #projects,
+  #creative {
+    padding-top: 5rem !important;
+    padding-bottom: 3rem !important;
+  }
+
+  /* Additional vertical gap between the section description text and the first project row */
+  #work .isotope,
+  #projects .isotope,
+  #creative .isotope {
+    margin-top: 2.5rem;
+  }
+
+  /* Same for the publication list */
+  #publications .col-12.col-lg-8 {
+    margin-top: 2.5rem;
   }
 </style>
 
