@@ -64,7 +64,7 @@ sections:
         image:
           filename: ship.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.4
           size: cover
           position: center
           parallax: true
