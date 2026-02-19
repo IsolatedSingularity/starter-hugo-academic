@@ -46,6 +46,29 @@ sections:
           text_color_light: true
       
   - block: portfolio
+    id: work
+    content:
+      title: Work
+      filters:
+        folders:
+          - project
+        tags:
+          - Work
+
+    design:
+      columns: '2'
+      view: showcase
+      background:
+        image:
+          filename: haven.jpg
+          filters:
+            brightness: 0.6
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+
+  - block: portfolio
     id: projects
     content:
       title: Research
@@ -91,7 +114,7 @@ sections:
       view: showcase
       background:
         image:
-          filename: creative-background.jpg
+          filename: aether.jpg
           filters:
             brightness: 0.6
           size: cover
@@ -104,7 +127,7 @@ sections:
       title: ""
       text: |
         <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
-        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
+        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #41f0c1;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #41f0c1;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
         </div>
         <div style="text-align: center; padding: 1rem 0; display: flex; justify-content: center;">
         <img src="/media/unknown.jpg" alt="" style="max-width: 120px; opacity: 0.8;">

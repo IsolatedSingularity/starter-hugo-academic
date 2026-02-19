@@ -1,0 +1,130 @@
+%% Preamble
+\documentclass[roman]{moderncv}
+\moderncvstyle{classic}
+\nopagenumbers{}
+\definecolor{darkPurple}{rgb}{0.4431,0.1882,0.7098}
+\colorlet{color1}{darkPurple}
+\usepackage[scale=0.96]{geometry}
+\usepackage{fontawesome}
+\usepackage{hyperref}
+\usepackage{amsfonts}
+\usepackage{tikz}
+\usepackage[export]{adjustbox}
+\renewcommand*{\namefont}{\fontsize{28}{40}\mdseries\upshape}
+
+\hypersetup{colorlinks=true,
+            breaklinks=true,
+            pdfstartview=Fit,
+            linkcolor=darkPurple,
+            citecolor=darkPurple,
+            urlcolor=darkPurple}
+
+\begin{document}
+
+
+% \textbf{\Large Jeffrey Morais\hspace{2cm}} \raisebox{-0.5\height}{\includegraphics[height=2cm]{YoRHA.png}} \\
+% Quantum gravity theorist
+
+%% Header information
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \begin{tabular}{@{}l@{}}
+    \textbf{\Large Jeffrey Morais}  \\
+     Quantum Research Scientist
+  \end{tabular} &
+  \begin{tabular}{@{}ll@{}}
+    \href{https://jeffreymorais.netlify.app/}{\color{darkPurple} {\faicon{link}} \color{black} Website} \quad & \quad \href{mailto:jeffrey.morais@mail.mcgill.ca}{\color{darkPurple}{\faicon{envelope}} \color{black} Email} \\
+    \href{https://www.linkedin.com/in/jeffrey-morais/}{ \color{darkPurple}{\faicon{linkedin}} \color{black} LinkedIn} \quad & \quad \href{https://github.com/IsolatedSingularity}{  \color{darkPurple}{\faicon{github-alt}} \color{black} Github}
+  \end{tabular}
+\end{tabular*}
+
+\setlength{\hintscolumnwidth}{2.3cm}
+
+\makecvtitle
+
+\vspace*{-18mm}
+
+%% Education section
+\section{Educational Background}
+
+\cvitem{Fall 2024}{\textbf{M.Sc. Physics}, \textit{University of Victoria}, Victoria, Canada    }
+\cvitem{}{
+\begin{itemize}
+    \item Eigenstate thermalization hypothesis verification across quantum many-body systems and circuits.
+    \item Scholarships: \href{https://quantum-bc.ca/quantum-computing-program/}{NSERC CREATE Quantum Computing Program}, \href{https://www.grad.ubc.ca/awards/british-columbia-graduate-scholarship}{BCGS}, \href{https://www.uvic.ca/graduatestudies/finances/search-funding/award-pages/uvic-graduate-awards-and-fellowships.php}{UVic FGS} (\$31,500)
+\end{itemize}}
+
+\vspace*{-5.5mm}
+
+\cvitem{2019 - 2023}{\textbf{B.Sc. Honours Physics}, \textit{McGill University}, Montréal, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item Thesis on de Sitter space cosmology compactifications in quantum gravity. \href{https://drive.google.com/file/d/1Y8pH3ZUVhR362jvN22JRzhUNCLeDe2VG/view?usp=share_link}{ \faExternalLink}
+    \item Scholarships: 2 \href{https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp}{NSERC USRAs} \textbf{+} \href{https://frq.gouv.qc.ca/en/program/supplements-of-the-nserc-undergraduate-student-research-awards-usra-bpca-2023-2024/}{FRQNT}, \href{https://www.mcgill.ca/science/research/undergraduate-research/sura}{SURA}, \href{https://www.mcgill.ca/engineering/research-innovation/sure}{SURE}, \href{https://www.mcgill.ca/financialservices/gfm/payments/bsa}{BSA} (\$41,600)
+\end{itemize}}
+
+\vspace*{-8mm}
+
+%% Projects section
+\section{Ongoing Experience}
+
+\cvitem{Present}{\textbf{Head of Quantum Software}, \textit{BTQ}, Vancouver, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item Leveraged topological data analysis \textbf{to strengthen post-quantum consensus protocols} and characterize autonomous network evolution in quantum key distribution systems, enhancing scalability and security in cryptographic frameworks.
+    \item Creator of \textcolor{darkPurple}{Leonne}: \textbf{modular consensus networks for cryptographic proof} in blockchain, and \textcolor{darkPurple}{QRiNG}: \textbf{quantum random number generation} for consensus protocols. \href{https://github.com/btq-ag/Leonne}{  \color{darkPurple}{\faicon{github-alt}}  } \href{https://github.com/btq-ag/QRiNG}{  \color{darkPurple}{\faicon{github-alt}}  }
+\end{itemize}  
+Collaborators:  \href{https://researchers.mq.edu.au/en/persons/gavin-brennen}{Prof. Gavin Brennen}
+}
+
+\cvitem{Present}{\textbf{Quantum Computing Research Scientist}, \textit{University of Victoria}, Victoria, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item Systematic verification of the eigenstate thermalization hypothesis \textbf{across multiple quantum many-body models}, investigating thermalization behavior through exact diagonalization and level spacing statistics.
+    \item Applied scaling analysis of thermalization times with Hilbert space dimension \textbf{to characterize quantum chaos and integrability}, improving understanding of thermalization mechanisms in quantum systems.
+\end{itemize}  
+Supervisor:  \href{https://www.uvic.ca/science/chemistry/people/faculty/profiles/baker-thomas.php}{Prof. Thomas Baker}
+}
+
+
+
+%% Experience section
+\section{Selected Experience}
+
+\cvitem{2023 - 2024}{\textbf{Quantum Neural Network Research Scientist}, \textit{Fudan University}, Shanghai, China}
+\cvitem{}{
+\begin{itemize}
+    \item Developed topological quantum neural networks \textbf{to improve generalization in deep learning}, boosting the efficiency of advanced quantum algorithms.
+    \item Employed topological quantum field theory \textbf{to better encode quantum information}, supporting scalable and high-fidelity operations in quantum computing.
+\end{itemize}  
+Supervisors:  \href{https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm}{Prof. Antonino Marcianò}, \href{https://eazappala.com/}{Prof. Emanuele Zappala}
+}
+
+\cvitem{Summer 2022}{\textbf{String Cosmology Research Scientist}, \textit{McGill University}, Montréal, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item \textbf{Increased cosmic string signal extraction efficiency by 1.7x} in noisy environments, enabling broader data sampling via wavelet/match-filter techniques.
+    \item Created custom Python algorithms \textbf{to identify string profiles with 45\% greater accuracy}, refining correlation-based analytics for astrophysical data. \href{https://github.com/IsolatedSingularity/Cosmic-String-Signals}{  \color{darkPurple}{\faicon{github-alt}}  }
+    \item Classified string stability \textbf{to constrain signal distributions in evolving spacetime}, improving predictive models for early-universe structures. 
+    \href{https://drive.google.com/file/d/1ni-rSrHla-Czyp_4kygXsxWQxOIkpt7k/view?usp=sharing}{ \faExternalLink}  
+\end{itemize}  
+Supervisor:  \href{https://www.physics.mcgill.ca/~rhb/}{Prof. Robert Brandenberger}}
+
+\cvitem{Fall 2021}{\textbf{Quantum Cosmology Research Scientist}, \textit{McGill University}, Montréal, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item Developed Python-based methods \textbf{to isolate fast radio burst signals from noise}, facilitating clearer analyses of black-white hole tunneling. \href{https://github.com/IsolatedSingularity/FRB-Analysis}{  \color{darkPurple}{\faicon{github-alt}}  }
+    \item Coordinated with 10+ physicists \textbf{to optimize bandwidth calculations using HPC and bash scripts}, accelerating signal refinement and processing.
+    \item Established spatial correlation approaches \textbf{to pinpoint burst locations in evolving spacetime}, enhancing positional accuracy in cosmological studies.
+\end{itemize}  
+Supervisor:  \href{https://www.physics.mcgill.ca/~vkaspi/}{Prof. Victoria Kaspi}}
+
+\cvitem{2019 - 2020}{\textbf{Quantum Simulation Research Scientist}, \textit{Vanier College}, Montréal, Canada}
+\cvitem{}{
+\begin{itemize}
+    \item Created innovative solutions \textbf{for non-linear PDE Hamilton-Jacobi equations}, generating predictive quantum trajectories in pilot-wave frameworks. \href{https://drive.google.com/file/d/1pzoWUTqB00feMiW0XPg9S6XNePCDm7uV/view?usp=sharing}{\faExternalLink}
+    \item Implemented RNN-driven simulations \textbf{to model quantum trajectories in real-time}, adapting efficiently to arbitrary potential landscapes in Python. \href{https://github.com/IsolatedSingularity/Quantum-Trajectories/tree/main}{  \color{darkPurple}{\faicon{github-alt}}  }
+\end{itemize}
+Supervisor: \href{https://euclid.vaniercollege.qc.ca/~iti/}{Prof. Ivan Ivanov}
+}
+
+\end{document}

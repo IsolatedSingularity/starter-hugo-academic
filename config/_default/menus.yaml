@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Work
+    url: '#work'
+    weight: 25
   - name: Research
     url: '#projects'
     weight: 30
