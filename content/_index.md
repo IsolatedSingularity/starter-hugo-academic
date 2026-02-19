@@ -27,7 +27,7 @@ sections:
     content:
       title: Publications
       text: |
-        <em>My undergraduate research on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal.</em>
+        <em>Early work on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal. Established the mathematical foundations that inform my approach to quantum software design.</em>
       filters:
         folders:
           - publication
@@ -36,7 +36,7 @@ sections:
       columns: '2'
       view: citation
       spacing:
-        padding: ["60px", "0", "20px", "0"]
+        padding: ["90px", "0", "20px", "0"]
       background:
         image:
           filename: main-background.jpg
@@ -52,7 +52,7 @@ sections:
     content:
       title: Work
       text: |
-        <em>Quantum software and post-quantum cryptographic tooling developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, spanning error correction, consensus protocols, random number generation, and industry analytics.</em>
+        <em>Production quantum software and post-quantum cryptographic systems developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, from error correction toolkits and consensus protocol engineering to quantum random number generation and threat analytics.</em>
       filters:
         folders:
           - project
@@ -63,7 +63,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["60px", "0", "20px", "0"]
+        padding: ["90px", "0", "20px", "0"]
       background:
         image:
           filename: ship.jpg
@@ -79,7 +79,7 @@ sections:
     content:
       title: Research
       text: |
-        <em>Theoretical and computational physics research conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em>
+        <em>Computational physics and quantum information research underpinning my engineering work, conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em>
       filters:
         folders:
           - project
@@ -90,7 +90,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["60px", "0", "20px", "0"]
+        padding: ["90px", "0", "20px", "0"]
       background:
         image:
           filename: background.jpg
@@ -106,7 +106,7 @@ sections:
     content:
       title: Personal
       text: |
-        <em>Something watches from the edges of the screen. You probably shouldn't scroll further.</em>
+        <em>You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far. It has been waiting.</em>
       filters:
         folders:
           - project
@@ -117,7 +117,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["60px", "0", "20px", "0"]
+        padding: ["90px", "0", "20px", "0"]
       background:
         image:
           filename: aether.jpg
