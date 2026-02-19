@@ -36,7 +36,7 @@ sections:
       columns: '2'
       view: citation
       spacing:
-        padding: ["90px", "0", "20px", "0"]
+        padding: ["150px", "0", "20px", "0"]
       background:
         image:
           filename: main-background.jpg
@@ -63,7 +63,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["90px", "0", "20px", "0"]
+        padding: ["150px", "0", "20px", "0"]
       background:
         image:
           filename: ship.jpg
@@ -90,7 +90,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["90px", "0", "20px", "0"]
+        padding: ["150px", "0", "20px", "0"]
       background:
         image:
           filename: background.jpg
@@ -117,7 +117,7 @@ sections:
       columns: '2'
       view: showcase
       spacing:
-        padding: ["90px", "0", "20px", "0"]
+        padding: ["150px", "0", "20px", "0"]
       background:
         image:
           filename: aether.jpg
