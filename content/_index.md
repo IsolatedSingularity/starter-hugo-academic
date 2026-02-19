@@ -27,7 +27,7 @@ sections:
     content:
       title: Publications
       text: |
-        <em>Early work on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal. Established the mathematical foundations that inform my approach to quantum software design.</em>
+        <div style="margin-bottom: 2.5rem;"><em>Early work on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal. Established the mathematical foundations that inform my approach to quantum software design.</em></div>
       filters:
         folders:
           - publication
@@ -50,7 +50,7 @@ sections:
     content:
       title: Work
       text: |
-        <em>Production quantum software and post-quantum cryptographic systems developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, from error correction toolkits and consensus protocol engineering to quantum random number generation and threat analytics.</em>
+        <div style="margin-bottom: 2.5rem;"><em>Production quantum software and post-quantum cryptographic systems developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, from error correction toolkits and consensus protocol engineering to quantum random number generation and threat analytics.</em></div>
       filters:
         folders:
           - project
@@ -75,7 +75,7 @@ sections:
     content:
       title: Research
       text: |
-        <em>Computational physics and quantum information research underpinning my engineering work, conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em>
+        <div style="margin-bottom: 2.5rem;"><em>Computational physics and quantum information research underpinning my engineering work, conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em></div>
       filters:
         folders:
           - project
@@ -100,7 +100,7 @@ sections:
     content:
       title: Personal
       text: |
-        <em>You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far. It has been waiting.</em>
+        <div style="margin-bottom: 2.5rem;"><em>You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far. It has been waiting.</em></div>
       filters:
         folders:
           - project
