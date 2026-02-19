@@ -25,13 +25,13 @@ role: Head of Quantum Software @ <a href="https://www.btq.com/" target="_blank">
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include quantum neural networks, topological quantum field theory, quantum information theory, and quantum gravity.
+bio: My interests include quantum software development, post-quantum cryptography, and quantum error correction.
 
 # Interests to show in About widget
 interests:
-  - Quantum algorithms
-  - Quantum cryptography
-  - Procedural world generation & speedrun routing optimization
+  - Quantum software engineering
+  - Quantum error correction
+  - Post-quantum cryptography
 
 # Education to show in About widget
 education:

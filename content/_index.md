@@ -27,7 +27,7 @@ sections:
     content:
       title: Publications
       text: |
-        My undergraduate research on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal.
+        <em>My undergraduate research on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal.</em>
       filters:
         folders:
           - publication
@@ -35,11 +35,13 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+        padding: ["60px", "0", "20px", "0"]
       background:
         image:
           filename: main-background.jpg
           filters:
-            brightness: 0.35
+            brightness: 0.25
           size: cover
           position: center
           parallax: true
@@ -50,7 +52,7 @@ sections:
     content:
       title: Work
       text: |
-        Quantum software and cryptographic tooling built at BTQ Technologies.
+        <em>Quantum software and post-quantum cryptographic tooling developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, spanning error correction, consensus protocols, random number generation, and industry analytics.</em>
       filters:
         folders:
           - project
@@ -60,11 +62,13 @@ sections:
     design:
       columns: '2'
       view: showcase
+      spacing:
+        padding: ["60px", "0", "20px", "0"]
       background:
         image:
           filename: ship.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.7
           size: cover
           position: center
           parallax: true
@@ -74,6 +78,8 @@ sections:
     id: projects
     content:
       title: Research
+      text: |
+        <em>Theoretical and computational physics research conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em>
       filters:
         folders:
           - project
@@ -81,30 +87,26 @@ sections:
           - Research
 
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: showcase
+      spacing:
+        padding: ["60px", "0", "20px", "0"]
       background:
         image:
-          # Name of image in `assets/media/`.
           filename: background.jpg
-          # Apply image filters?
           filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.6
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
 
   - block: portfolio
     id: creative
     content:
       title: Personal
+      text: |
+        <em>Something watches from the edges of the screen. You probably shouldn't scroll further.</em>
       filters:
         folders:
           - project
@@ -114,6 +116,8 @@ sections:
     design:
       columns: '2'
       view: showcase
+      spacing:
+        padding: ["60px", "0", "20px", "0"]
       background:
         image:
           filename: aether.jpg
