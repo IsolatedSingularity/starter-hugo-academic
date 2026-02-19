@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Jeff
+title: Jeffrey Morais
 date: 2022-10-24
 type: landing
 
@@ -49,6 +49,8 @@ sections:
     id: work
     content:
       title: Work
+      text: |
+        Quantum software and cryptographic tooling built at BTQ Technologies.
       filters:
         folders:
           - project
@@ -60,7 +62,7 @@ sections:
       view: showcase
       background:
         image:
-          filename: haven.jpg
+          filename: ship.jpg
           filters:
             brightness: 0.6
           size: cover
@@ -102,7 +104,7 @@ sections:
   - block: portfolio
     id: creative
     content:
-      title: Creative Work
+      title: Personal
       filters:
         folders:
           - project
@@ -127,7 +129,7 @@ sections:
       title: ""
       text: |
         <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
-        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #41f0c1;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #41f0c1;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
+        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, <a href="https://en.wikipedia.org/wiki/Montague_Dawson" target="_blank" style="color: #41f0c1;">Montague Dawson</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #41f0c1;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #41f0c1;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
         </div>
         <div style="text-align: center; padding: 1rem 0; display: flex; justify-content: center;">
         <img src="/media/unknown.jpg" alt="" style="max-width: 120px; opacity: 0.8;">

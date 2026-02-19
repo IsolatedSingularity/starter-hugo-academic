@@ -16,7 +16,7 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
-  - name: Creative Work
+  - name: Personal
     url: '#creative'
     weight: 40
   - name: CV

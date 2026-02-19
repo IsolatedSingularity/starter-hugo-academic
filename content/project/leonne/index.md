@@ -1,11 +1,11 @@
 ---
 title: Leonne
 summary: |+
-  Modular blockchain consensus protocol built for post-quantum security. Implements topological data analysis and combinatorial optimization for scalable, quantum-resistant distributed consensus. Designed to maintain security guarantees against both classical and quantum adversaries.
+  Created modular consensus networks at BTQ Technologies for cryptographic proof in blockchain, leveraging topological data analysis to strengthen post-quantum consensus protocols and characterize autonomous network evolution in quantum key distribution systems.
 
 url_video: ""
 url_link: ""
-date: 2024-03-01
+date: 2024-04-01
 external_link: ""
 tags:
   - Work

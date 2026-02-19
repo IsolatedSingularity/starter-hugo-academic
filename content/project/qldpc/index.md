@@ -1,11 +1,11 @@
 ---
 title: QLDPC
 summary: |+
-  Interactive quantum error correction toolkit with a 3D circuit builder for constructing and visualizing quantum LDPC codes. Features surface code mode, belief propagation animation, GHZ fidelity analysis, LDPC code visualization, and full Qiskit integration. Includes guided tutorials and an extensible architecture for custom code families.
+  Built an interactive 3D quantum circuit builder at BTQ Technologies to accelerate error correction research, integrating surface code construction, LDPC code visualization, and belief propagation decoding into a single Qiskit-compatible toolkit with guided tutorials.
 
 url_video: ""
 url_link: ""
-date: 2024-01-01
+date: 2024-06-01
 external_link: ""
 tags:
   - Work

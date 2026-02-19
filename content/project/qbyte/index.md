@@ -1,11 +1,11 @@
 ---
 title: QByte
 summary: |+
-  Quantum industry analytics platform providing risk assessment tools, cryptographic threat timelines, and educational resources on quantum computing's impact on public-key cryptography. Features a quantum risk calculator, Quantum 101 explainer, and post-quantum cryptography overview.
+  Built a quantum industry analytics platform at BTQ Technologies to quantify cryptographic risk timelines and educate stakeholders on quantum threats to public-key infrastructure. Features a quantum risk calculator, threat timeline modeling, and post-quantum migration resources.
 
 url_video: ""
 url_link: ""
-date: 2024-06-01
+date: 2024-01-01
 external_link: ""
 tags:
   - Work

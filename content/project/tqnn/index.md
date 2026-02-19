@@ -1,11 +1,11 @@
 ---
 title: Topological Quantum Neural Networks
 summary: |+
-  Real-time tensor network simulator and interactive classification tool for topological quantum neural networks. Features spin-network encoding, live training visualization, robustness testing sandbox, and topological quantum field theory-inspired architectures for quantum machine learning.
+  Developed topological quantum neural networks to improve generalization in deep learning and boost quantum algorithm efficiency. Employed TQFT-inspired spin-network encoding with a real-time tensor network simulator and interactive classification GUI for robustness testing.
 
 url_video: ""
 url_link: ""
-date: 2024-02-01
+date: 2024-05-01
 external_link: ""
 tags:
   - Work

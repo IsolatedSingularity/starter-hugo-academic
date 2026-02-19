@@ -1,11 +1,11 @@
 ---
 title: QRiNG
 summary: |+
-  Quantum random number generation toolkit employing quantum key distribution to produce certifiable randomness. Operates through Quantum Consensus Networks achieving full peer-to-peer connectivity via QKD, with honest-majority verification for secure distributed random number generation. Applications in cryptography, blockchain consensus, and scientific research.
+  Built a quantum random number generation toolkit at BTQ Technologies for consensus protocols, employing quantum key distribution through Quantum Consensus Networks to produce certifiable randomness with honest-majority verification, enhancing security in cryptographic and blockchain systems.
 
 url_video: ""
 url_link: ""
-date: 2024-04-01
+date: 2024-03-01
 external_link: ""
 tags:
   - Work
