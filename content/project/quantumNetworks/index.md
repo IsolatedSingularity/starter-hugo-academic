@@ -4,7 +4,7 @@ url_pdf:
 summary: |+
   Developed topological quantum neural networks to enhance deep learning generalization and quantum algorithm efficiency. Modeled information flow using topological quantum field theory, enabling scalable quantum computing tasks.
   
-  **Supervisor:** [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm)
+  **Supervisors:** [Prof. Antonino Marcianò](https://phys.fudan.edu.cn/f7/88/c7605a63368/page.htm), [Prof. Emanuele Zappala](https://inspirehep.net/authors/1904007)
 url_video: ""
 url_link: ""
 date: 2023-09-01
@@ -14,7 +14,10 @@ tags:
   - Machine Learning
   - TQFT
   - Research
-links: []
+links:
+  - name: TQNN
+    url: https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks
+    icon: brands/github
 image:
   filename: featured.jpg
   focal_point: Smart
