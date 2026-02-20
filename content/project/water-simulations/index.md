@@ -17,4 +17,5 @@ links:
 image:
   focal_point: Smart
 url_code: "https://github.com/IsolatedSingularity/Water-Simulations/tree/main/Code"
+url_video: "featured.mp4"
 ---
