@@ -74,7 +74,7 @@ I build production quantum software and study the physics that makes it work.
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Python</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Qiskit</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">NumPy / SciPy</span>
+  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Tensor Networks</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Quantum Error Correction</span>
