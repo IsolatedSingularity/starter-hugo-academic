@@ -1,7 +1,7 @@
 ---
 title: QByte
 summary: |+
-  Built a quantum industry analytics platform at BTQ Technologies to quantify cryptographic risk timelines and educate stakeholders on quantum threats to public-key infrastructure. Features a quantum risk calculator, threat timeline modeling, and post-quantum migration resources.
+  Built a quantum industry analytics platform in TypeScript at BTQ Technologies to quantify cryptographic risk timelines and educate stakeholders on quantum threats to public-key infrastructure. Features a quantum risk calculator, threat timeline modeling, and post-quantum migration resources.
 
 url_video: ""
 url_link: ""

@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#publications'
-    weight: 20
   - name: Work
     url: '#work'
+    weight: 20
+  - name: Publications
+    url: '#publications'
     weight: 25
   - name: Research
     url: '#projects'
@@ -19,7 +19,7 @@ main:
   - name: Personal
     url: '#creative'
     weight: 40
-  - name: CV
+  - name: Résumé
     url: uploads/IndustryCV.pdf
     weight: 50
 

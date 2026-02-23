@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jeffrey Morais - Head of Quantum Software at BTQ and MSc student in physics. Research in quantum software, post-quantum cryptography, and quantum error correction.'
+    description: 'Jeffrey Morais - Quantum software engineer with experience in post-quantum cryptography, quantum error correction, and distributed systems.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/IsolatedSingularity/starter-hugo-academic'
     content_dir: content
     branch: main
   avatar:

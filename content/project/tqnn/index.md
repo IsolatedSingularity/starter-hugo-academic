@@ -1,7 +1,7 @@
 ---
 title: Topological Quantum Neural Networks
 summary: |+
-  Developed topological quantum neural networks to improve generalization in deep learning and boost quantum algorithm efficiency. Employed TQFT-inspired spin-network encoding with a real-time tensor network simulator and interactive classification GUI for robustness testing.
+  Developed topological quantum neural networks in Python to improve generalization in deep learning and boost quantum algorithm efficiency. Employed TQFT-inspired spin-network encoding with a real-time tensor network simulator and interactive classification GUI for robustness testing.
 
 url_video: ""
 url_link: ""

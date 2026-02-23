@@ -19,7 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Quantum Software @ <a href="https://www.btq.com/" target="_blank">BTQ</a><br>MSc Student @ <a href="https://www.uvic.ca/" target="_blank">UVic</a>
+role: Quantum Software Lead @ <a href="https://www.btq.com/" target="_blank">BTQ</a><br>MSc Student @ <a href="https://www.uvic.ca/" target="_blank">UVic</a>
 
 # Organizations/Affiliations to show in About widget
 organizations: []
@@ -53,7 +53,7 @@ social:
     link: https://github.com/IsolatedSingularity
   - icon: linkedin
     icon_pack: fab
-    link: https://ca.linkedin.com/in/jeffrey-morais/
+    link: https://www.linkedin.com/in/jeffrey-morais/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,9 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-I am the Head of Quantum Software at [BTQ](https://www.btq.com/) and an MSc student in theoretical physics at the [University of Victoria](https://www.uvic.ca/). I formerly graduated with a BSc in honours physics at [McGill University](https://www.physics.mcgill.ca/).
+Quantum software engineer with eight years of experience across quantum physics research and industry. Currently building cryptographic and distributed systems at [BTQ](https://www.btq.com/) while completing an MSc in theoretical physics at the [University of Victoria](https://www.uvic.ca/). I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
 
-My research background spans eight years in theoretical physics and computer science throughout various universities ranging from quantum gravity to computational biophysics. Currently I work with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) at BTQ on optimizing cryptographic proof protocols using topological data analysis techniques and quantum low-density parity-check codes.  Simultaneously, I am working under [Prof. Thomas Baker](https://www.uvic.ca/science/chemistry/people/faculty/profiles/baker-thomas.php) investigating the eigenstate thermalization hypothesis across quantum many-body models and characterizing quantum chaos in non-integrable systems.
+At BTQ I designed post-quantum consensus protocols, built quantum error correction toolkits, and developed quantum random number generation systems for blockchain security. My research under [Prof. Thomas Baker](https://www.uvic.ca/science/chemistry/people/faculty/profiles/baker-thomas.php) investigates thermalization scaling in quantum many-body systems, establishing coherence constraints that directly inform quantum hardware design. I also collaborate with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) on optimizing cryptographic proof protocols using topological data analysis and quantum LDPC codes.
 
-My interests are deeply rooted in unraveling intricate problems, whether it's describing our universe with quantum gravity or brain networks with topology. When my soul isn't being consumed by physics, it's being devoured by black holes. Also I hike & cook.
+I build production quantum software and study the physics that makes it work.
 {style="text-align: justify;"}

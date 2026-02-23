@@ -2,7 +2,7 @@
 title: "Conflicts with de Sitter Vacua in Superstring Theory"
 authors:
 - admin
-date: "2025-03-31T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: "10.26443/msurj.v1i1.337"
 
 # Schedule page publish date (NOT publication's date).

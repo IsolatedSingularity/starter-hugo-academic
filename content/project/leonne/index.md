@@ -1,7 +1,7 @@
 ---
 title: Leonne
 summary: |+
-  Created modular consensus networks at BTQ Technologies for cryptographic proof in blockchain, leveraging topological data analysis to strengthen post-quantum consensus protocols and characterize autonomous network evolution in quantum key distribution systems.
+  Created modular consensus networks in Python at BTQ Technologies for cryptographic proof in blockchain, leveraging topological data analysis to strengthen post-quantum consensus protocols and characterize autonomous network evolution in quantum key distribution systems.
 
 url_video: ""
 url_link: ""

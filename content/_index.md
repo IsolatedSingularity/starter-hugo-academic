@@ -11,35 +11,14 @@ sections:
       title: Welcome Traveler.
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: |
+        <div style="margin-top: -0.5rem; margin-bottom: 0.5rem; font-size: 1.05rem; color: #aaa;">Quantum Software Engineer</div>
     design:
       background:
         image:
           filename: main-background.jpg
           filters:
             brightness: 0.35
-          size: cover
-          position: center
-          parallax: true
-          text_color_light: true
-      
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      text: |
-        <div style="margin-bottom: 2.5rem;"><em>Early work on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal. Established the mathematical foundations that inform my approach to quantum software design.</em></div>
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
-      background:
-        image:
-          filename: main-background.jpg
-          filters:
-            brightness: 0.25
           size: cover
           position: center
           parallax: true
@@ -70,12 +49,58 @@ sections:
           parallax: true
           text_color_light: true
 
+  - block: markdown
+    id: skills
+    content:
+      title: ""
+      text: |
+        <div style="text-align: center; padding: 1.5rem 0;">
+          <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; max-width: 700px; margin: 0 auto;">
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Python</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Qiskit</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">NumPy / SciPy</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">TypeScript</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Next.js</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Git</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Linux</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Quantum Error Correction</span>
+            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Post-Quantum Cryptography</span>
+          </div>
+        </div>
+    design:
+      columns: '1'
+      background:
+        color: '#000000'
+
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: |
+        <div style="margin-bottom: 2.5rem;"><em>Early work on the swampland criteria and de Sitter vacua in string theory, published in the McGill Science Undergraduate Research Journal. Established the mathematical foundations that inform my approach to quantum software design.</em></div>
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
+      background:
+        image:
+          filename: ship.jpg
+          filters:
+            brightness: 0.3
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+
   - block: portfolio
     id: projects
     content:
       title: Research
       text: |
-        <div style="margin-bottom: 2.5rem;"><em>Computational physics and quantum information research underpinning my engineering work, conducted across <a href="https://www.mcgill.ca/" target="_blank" style="color: #41f0c1;">McGill University</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" style="color: #41f0c1;">Fudan University</a>, <a href="https://www.uvic.ca/" target="_blank" style="color: #41f0c1;">University of Victoria</a>, <a href="https://muhc.ca/" target="_blank" style="color: #41f0c1;">McGill University Health Centre</a>, <a href="https://www.ualberta.ca/" target="_blank" style="color: #41f0c1;">University of Alberta</a>, <a href="https://www.concordia.ca/" target="_blank" style="color: #41f0c1;">Concordia University</a>, and <a href="https://www.vaniercollege.qc.ca/" target="_blank" style="color: #41f0c1;">Vanier College</a>.</em></div>
+        <div style="margin-bottom: 2.5rem;"><em>Computational physics and quantum information research that underpins my engineering work, spanning quantum many-body thermalization, topological neural networks, holographic entanglement, and signal processing.</em></div>
       filters:
         folders:
           - project
@@ -100,7 +125,7 @@ sections:
     content:
       title: Personal
       text: |
-        <div style="margin-bottom: 2.5rem;"><em>You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far. It has been waiting.</em></div>
+        <div style="margin-bottom: 2.5rem;"><em>Creative projects and explorations in game development, procedural generation, and fluid dynamics. You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far.</em></div>
       filters:
         folders:
           - project
