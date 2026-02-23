@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Quantum software engineer with 2+ years of industry experience building cryptographic and distributed systems, grounded in 8 years of academic research in quantum physics. Currently completing an MSc in theoretical physics at the [University of Victoria](https://www.uvic.ca/). I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
+Quantum software engineer with 2+ years of industry experience building cryptographic and distributed systems, grounded in 8 years of academic research in quantum physics. Currently completing an MSc at the [University of Victoria](https://www.uvic.ca/), where my thesis maps how thermalization scales with system size and coupling strength to identify regimes where quantum coherence persists. I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
 
 At [BTQ](https://www.btq.com/) I designed post-quantum consensus protocols, built quantum error correction toolkits, and developed quantum random number generation systems for blockchain security. I collaborate with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) on optimizing cryptographic proof protocols using topological data analysis and quantum LDPC codes.
 
@@ -79,9 +79,6 @@ I build production quantum software and study the physics that makes it work.
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">NumPy / SciPy</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Git</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Linux</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Quantum Error Correction</span>
   <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Post-Quantum Cryptography</span>
 </div>
-{style="text-align: justify;"}
