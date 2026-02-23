@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Quantum software engineer with 2+ years of industry experience building cryptographic and distributed systems, grounded in 8 years of academic research in quantum physics. Currently completing an MSc at the [University of Victoria](https://www.uvic.ca/), where my thesis maps how thermalization scales with system size and coupling strength to identify regimes where quantum coherence persists. I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
+Quantum software engineer with 2+ years of industry experience building cryptographic and distributed systems, grounded in 8 years of academic research in quantum physics. Currently building quantum software at [BTQ](https://www.btq.com/) while completing an MSc at the [University of Victoria](https://www.uvic.ca/). I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
 
 At [BTQ](https://www.btq.com/) I designed post-quantum consensus protocols, built quantum error correction toolkits, and developed quantum random number generation systems for blockchain security. I collaborate with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) on optimizing cryptographic proof protocols using topological data analysis and quantum LDPC codes.
 
