@@ -11,7 +11,7 @@ tags:
   - Work
 links:
   - name: QByte
-    url: https://qbyte.netlify.app/quantum101
+    url: https://qbyte.netlify.app/
     icon: link
 image:
   focal_point: Smart

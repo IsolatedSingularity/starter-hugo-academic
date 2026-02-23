@@ -11,8 +11,6 @@ sections:
       title: Welcome Traveler.
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: |
-        <div style="margin-top: -0.5rem; margin-bottom: 0.5rem; font-size: 1.05rem; color: #aaa;">Quantum Software Engineer</div>
     design:
       background:
         image:
@@ -48,29 +46,6 @@ sections:
           position: center
           parallax: true
           text_color_light: true
-
-  - block: markdown
-    id: skills
-    content:
-      title: ""
-      text: |
-        <div style="text-align: center; padding: 1.5rem 0;">
-          <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; max-width: 700px; margin: 0 auto;">
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Python</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Qiskit</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">NumPy / SciPy</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">TypeScript</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Next.js</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Git</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Linux</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Quantum Error Correction</span>
-            <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.35rem 0.85rem; border-radius: 20px; font-size: 0.85rem;">Post-Quantum Cryptography</span>
-          </div>
-        </div>
-    design:
-      columns: '1'
-      background:
-        color: '#000000'
 
   - block: collection
     id: publications

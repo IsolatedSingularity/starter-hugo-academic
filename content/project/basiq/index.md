@@ -9,13 +9,7 @@ date: 2024-02-01
 external_link: ""
 tags:
   - Work
-links:
-  - name: BasiQ
-    url: https://btq-ai-tutor.vercel.app/
-    icon: link
-  - name: Qonductor (Internal)
-    url: https://assistant.coxwave.link/auth/login?redirect_url=https://btq-ai-assistant.vercel.app
-    icon: link
+links: []
 image:
   focal_point: Smart
 url_code: ""
