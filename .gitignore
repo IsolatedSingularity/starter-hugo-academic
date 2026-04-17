@@ -11,3 +11,11 @@ go.sum
 
 # Personal context
 abyssalAnchor/
+
+.env
+audit-*.md
+Jenova/
+
+.env
+audit-*.md
+Jenova/
