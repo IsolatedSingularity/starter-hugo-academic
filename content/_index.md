@@ -1,4 +1,4 @@
----
+﻿---
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -99,16 +99,9 @@ sections:
     content:
       title: ""
       text: |
-        <div style="text-align: center; padding: 1.5rem 0 0.5rem 0; font-size: 1rem; color: #c0caf5; letter-spacing: 0.04em;">
-        <a href="https://beau-coup.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">⌨ Alex</a>&nbsp;&nbsp;&nbsp;<a href="https://maryiletey.com/" target="_blank" style="color: #7dcfff; text-decoration: none;">🦦 Mary</a>&nbsp;&nbsp;&nbsp;<a href="https://guillaumepayeur.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">🏎 Guillaume</a>&nbsp;&nbsp;&nbsp;<a href="https://thomasrribeiro.com/" target="_blank" style="color: #7dcfff; text-decoration: none;">🧠 Thomas</a>&nbsp;&nbsp;&nbsp;<a href="https://rioweil.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">⚛ Ryohei</a>
+        <div style="text-align: center; padding: 1.5rem 0 0.5rem 0; font-size: 0.85rem; color: #888;">
+        Friends: <a href="https://beau-coup.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">&gt;_ Alex</a>,&nbsp; <a href="https://maryiletey.com/" target="_blank" style="color: #41f0c1; text-decoration: none;">~~ Mary</a>,&nbsp; <a href="https://guillaumepayeur.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">// Guillaume</a>,&nbsp; <a href="https://thomasrribeiro.com/" target="_blank" style="color: #41f0c1; text-decoration: none;">{} Thomas</a>,&nbsp; and <a href="https://rioweil.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">(+) Ryohei</a>
         </div>
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title: ""
-      text: |
         <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
         Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, <a href="https://en.wikipedia.org/wiki/Montague_Dawson" target="_blank" style="color: #41f0c1;">Montague Dawson</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #41f0c1;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #41f0c1;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
         </div>
