@@ -95,30 +95,15 @@ sections:
           parallax: true
           text_color_light: true
 
-  - block: portfolio
-    id: creative
+  - block: markdown
     content:
-      title: Personal
+      title: ""
       text: |
-        <div style="margin-bottom: 2.5rem;"><em>Creative projects and explorations in game development, procedural generation, and fluid dynamics. You feel it before you see it. A flicker at the edge of the viewport. It knows you scrolled this far.</em></div>
-      filters:
-        folders:
-          - project
-        tags:
-          - Creative
-
+        <div style="text-align: center; padding: 1.5rem 0 0.5rem 0; font-size: 1rem; color: #c0caf5; letter-spacing: 0.04em;">
+        <a href="https://beau-coup.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">⌨ Alex</a>&nbsp;&nbsp;&nbsp;<a href="https://maryiletey.com/" target="_blank" style="color: #7dcfff; text-decoration: none;">🦦 Mary</a>&nbsp;&nbsp;&nbsp;<a href="https://guillaumepayeur.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">🏎 Guillaume</a>&nbsp;&nbsp;&nbsp;<a href="https://thomasrribeiro.com/" target="_blank" style="color: #7dcfff; text-decoration: none;">🧠 Thomas</a>&nbsp;&nbsp;&nbsp;<a href="https://rioweil.github.io/" target="_blank" style="color: #7dcfff; text-decoration: none;">⚛ Ryohei</a>
+        </div>
     design:
-      columns: '2'
-      view: showcase
-      background:
-        image:
-          filename: aether.jpg
-          filters:
-            brightness: 0.6
-          size: cover
-          position: center
-          parallax: true
-          text_color_light: true
+      columns: '1'
 
   - block: markdown
     content:
