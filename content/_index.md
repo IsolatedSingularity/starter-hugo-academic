@@ -41,7 +41,7 @@ sections:
         image:
           filename: work.png
           filters:
-            brightness: 0.544
+            brightness: 0.4896
           size: cover
           position: center
           parallax: true
@@ -64,7 +64,7 @@ sections:
         image:
           filename: ship.jpg
           filters:
-            brightness: 0.495
+            brightness: 0.4455
           size: cover
           position: center
           parallax: true
@@ -89,7 +89,7 @@ sections:
         image:
           filename: research.jpg
           filters:
-            brightness: 0.64
+            brightness: 0.576
           size: cover
           position: center
           parallax: true
