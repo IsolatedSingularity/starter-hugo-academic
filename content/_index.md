@@ -41,7 +41,7 @@ sections:
         image:
           filename: work.png
           filters:
-            brightness: 0.80
+            brightness: 0.64
           size: cover
           position: center
           parallax: true
