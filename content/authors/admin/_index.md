@@ -57,6 +57,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/IndustryCV.pdf
+  - icon: chess-knight
+    icon_pack: fas
+    link: https://ichor.pages.dev/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,11 +75,11 @@ At BTQ I designed post-quantum consensus protocols, built quantum error correcti
 I build production quantum software and study the physics that makes it work.
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Python</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Qiskit</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Tensor Networks</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Quantum Error Correction</span>
-  <span style="background: rgba(65, 240, 193, 0.1); border: 1px solid rgba(65, 240, 193, 0.3); color: #41f0c1; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Post-Quantum Cryptography</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Python</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Qiskit</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Tensor Networks</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Quantum Error Correction</span>
+  <span style="background: rgba(212, 96, 122, 0.1); border: 1px solid rgba(212, 96, 122, 0.3); color: #d4607a; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Post-Quantum Cryptography</span>
 </div>

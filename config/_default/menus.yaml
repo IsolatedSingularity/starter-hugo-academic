@@ -16,9 +16,6 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
-  - name: Personal
-    url: '#creative'
-    weight: 40
   - name: Résumé
     url: uploads/IndustryCV.pdf
     weight: 50

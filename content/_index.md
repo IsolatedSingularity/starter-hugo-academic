@@ -1,4 +1,4 @@
-﻿---
+---
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -14,9 +14,9 @@ sections:
     design:
       background:
         image:
-          filename: main-background.jpg
+          filename: bio.png
           filters:
-            brightness: 0.35
+            brightness: 0.85
           size: cover
           position: center
           parallax: true
@@ -27,7 +27,7 @@ sections:
     content:
       title: Work
       text: |
-        <div style="margin-bottom: 2.5rem;"><em>Production quantum software and post-quantum cryptographic systems developed at <a href="https://www.btq.com/" target="_blank" style="color: #41f0c1;">BTQ Technologies</a>, from error correction toolkits and consensus protocol engineering to quantum random number generation and threat analytics.</em></div>
+        <div style="margin-bottom: 2.5rem;"><em>Production quantum software and post-quantum cryptographic systems developed at <a href="https://www.btq.com/" target="_blank" style="color: #d4607a;">BTQ Technologies</a>, from error correction toolkits and consensus protocol engineering to quantum random number generation and threat analytics.</em></div>
       filters:
         folders:
           - project
@@ -39,9 +39,9 @@ sections:
       view: showcase
       background:
         image:
-          filename: ship.jpg
+          filename: work.png
           filters:
-            brightness: 0.5
+            brightness: 1.0
           size: cover
           position: center
           parallax: true
@@ -64,7 +64,7 @@ sections:
         image:
           filename: ship.jpg
           filters:
-            brightness: 0.3
+            brightness: 0.55
           size: cover
           position: center
           parallax: true
@@ -87,9 +87,9 @@ sections:
       view: showcase
       background:
         image:
-          filename: background.jpg
+          filename: research.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.8
           size: cover
           position: center
           parallax: true
@@ -100,10 +100,10 @@ sections:
       title: ""
       text: |
         <div style="text-align: center; padding: 1.5rem 0 0.5rem 0; font-size: 0.85rem; color: #888;">
-        Friends: <a href="https://beau-coup.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">&gt;_ Alex</a>,&nbsp; <a href="https://maryiletey.com/" target="_blank" style="color: #41f0c1; text-decoration: none;">~~ Mary</a>,&nbsp; <a href="https://guillaumepayeur.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">// Guillaume</a>,&nbsp; <a href="https://thomasrribeiro.com/" target="_blank" style="color: #41f0c1; text-decoration: none;">{} Thomas</a>,&nbsp; and <a href="https://rioweil.github.io/" target="_blank" style="color: #41f0c1; text-decoration: none;">(+) Ryohei</a>
+        Friends: <a href="https://beau-coup.github.io/" target="_blank" style="color: #d4607a; text-decoration: none;">&gt;_ Alex</a>,&nbsp; <a href="https://maryiletey.com/" target="_blank" style="color: #d4607a; text-decoration: none;">~~ Mary</a>,&nbsp; <a href="https://guillaumepayeur.github.io/" target="_blank" style="color: #d4607a; text-decoration: none;">// Guillaume</a>,&nbsp; <a href="https://thomasrribeiro.com/" target="_blank" style="color: #d4607a; text-decoration: none;">{} Thomas</a>,&nbsp; and <a href="https://rioweil.github.io/" target="_blank" style="color: #d4607a; text-decoration: none;">(+) Ryohei</a>
         </div>
         <div style="text-align: center; padding: 2rem 0; font-size: 0.85rem; color: #888;">
-        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #41f0c1;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #41f0c1;">Dominik Mayer</a>, <a href="https://en.wikipedia.org/wiki/Montague_Dawson" target="_blank" style="color: #41f0c1;">Montague Dawson</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #41f0c1;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #41f0c1;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #41f0c1;">mintaii</a>!
+        Background artwork by <a href="https://www.tumblr.com/ionomycin" target="_blank" style="color: #d4607a;">Ionomycin</a>, <a href="https://www.dominikmayer.art/" target="_blank" style="color: #d4607a;">Dominik Mayer</a>, <a href="https://en.wikipedia.org/wiki/Montague_Dawson" target="_blank" style="color: #d4607a;">Montague Dawson</a>, <a href="https://www.instagram.com/mo_ninglj/" target="_blank" style="color: #d4607a;">moninlj</a>, <a href="https://www.pixiv.net/en/users/9678597" target="_blank" style="color: #d4607a;">Y_Y</a>, and <a href="https://www.tumblr.com/mintaii" target="_blank" style="color: #d4607a;">mintaii</a>!
         </div>
         <div style="text-align: center; padding: 1rem 0; display: flex; justify-content: center;">
         <img src="/media/unknown.jpg" alt="" style="max-width: 120px; opacity: 0.8;">
