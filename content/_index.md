@@ -16,7 +16,7 @@ sections:
         image:
           filename: bio.png
           filters:
-            brightness: 0.75
+            brightness: 0.525
           size: cover
           position: center
           parallax: true
@@ -41,7 +41,7 @@ sections:
         image:
           filename: work.png
           filters:
-            brightness: 1.0
+            brightness: 0.80
           size: cover
           position: center
           parallax: true
