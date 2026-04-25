@@ -16,7 +16,7 @@ sections:
         image:
           filename: bio.png
           filters:
-            brightness: 0.85
+            brightness: 0.75
           size: cover
           position: center
           parallax: true
