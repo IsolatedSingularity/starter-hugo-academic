@@ -19,19 +19,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Quantum Software Lead @ <a href="https://www.btq.com/" target="_blank">BTQ</a><br>MSc Student @ <a href="https://www.uvic.ca/" target="_blank">UVic</a>
+role: Quantum Software Engineer @ <a href="https://www.btq.com/" target="_blank">BTQ</a><br>MSc Student @ <a href="https://www.uvic.ca/" target="_blank">UVic</a>
 
 # Organizations/Affiliations to show in About widget
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: Quantum software engineer building cryptographic and distributed systems.
+bio: Scientific systems engineer building high-performance cryptographic and distributed systems.
 
 # Interests to show in About widget
 interests:
-  - Quantum software engineering
-  - Quantum error correction
+  - High-performance computing
+  - Scientific software engineering
   - Post-quantum cryptography
+  - Large-scale simulation systems
 
 # Education to show in About widget
 education:
@@ -68,18 +69,20 @@ email: ''
 highlight_name: true
 ---
 
-Quantum software engineer with 2+ years of industry experience building cryptographic and distributed systems, grounded in 8 years of academic research in quantum physics. Currently building quantum software at [BTQ](https://www.btq.com/) while completing an MSc at the [University of Victoria](https://www.uvic.ca/). I graduated with a BSc in honours physics from [McGill University](https://www.physics.mcgill.ca/).
+Quantum software engineer with 2+ years of experience building cryptographic and distributed systems, grounded in 8 years of computational physics. Currently working on post-quantum infrastructure at [BTQ](https://www.btq.com/) while completing an MSc in Physics at the [University of Victoria](https://www.uvic.ca/). BSc Honours Physics, [McGill University](https://www.physics.mcgill.ca/).
 
-At BTQ I designed post-quantum consensus protocols, built quantum error correction toolkits, and developed quantum random number generation systems for blockchain security, collaborating with [Prof. Gavin Brennen](https://researchers.mq.edu.au/en/persons/gavin-brennen) on optimizing cryptographic proof using topological data analysis and quantum LDPC codes. At UVic, my research under [Prof. Thomas Baker](https://www.uvic.ca/science/chemistry/people/faculty/profiles/baker-thomas.php) investigates thermalization scaling across quantum many-body models, establishing coherence constraints that directly inform quantum hardware design.
+At BTQ, I design low-latency cryptographic and distributed systems, focusing on execution efficiency, fault tolerance, and scalable protocol design for post-quantum environments. My work spans error-correcting architectures, randomness generation for secure systems, and performance-critical protocol optimization.
 
-I build production quantum software and study the physics that makes it work.
+At UVic, I develop high-performance simulation engines for quantum many-body systems, optimizing memory usage, parallel execution, and computational complexity to study emergent dynamics at scale. This work informs how physical constraints translate into computable and deployable systems.
+
+I build high-performance scientific software and the systems that make it run.
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
   <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Python</span>
-  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Qiskit</span>
-  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Tensor Networks</span>
-  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span>
-  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
+  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">C++</span>
+  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Julia</span>
+  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">HPC Clusters</span>
+  <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Parallel Computing</span>
   <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Quantum Error Correction</span>
   <span style="background: rgba(212, 96, 122, 0.22); border: 1px solid rgba(212, 96, 122, 0.6); color: #f0a0b4; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Post-Quantum Cryptography</span>
 </div>
