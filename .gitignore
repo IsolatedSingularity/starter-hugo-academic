@@ -1,4 +1,4 @@
-# IDEs
+﻿# IDEs
 .idea/
 
 # Hugo
@@ -23,3 +23,10 @@ Jenova/
 open-issues.md
 
 Jenova/
+
+# Kilo Code / Agent Configuration
+.kilo/
+.kilocodeignore
+AGENTS.md
+Jenova/
+
